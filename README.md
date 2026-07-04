@@ -17,11 +17,11 @@ To successfully replicate this environment, ensure the following tools are insta
 
  * Entity Framework Core CLI: Used for database migrations and schema management. Install globally using:
  ```Bash
-  dotnet tool install --global dotnet-ef --version "6.0.*"
+dotnet tool install --global dotnet-ef --version "6.0.*"
  ```
  * SQLite CLI: Used to inspect the database directly from the terminal. Install via winget:
  ```Bash
-  winget install --id SQLite.SQLite --exact
+winget install --id SQLite.SQLite --exact
  ```
  (Note: Restart your terminal or VS Code after installation to refresh the PATH.)
 
@@ -34,7 +34,7 @@ The project utilizes Python scripts to scrape legal Pokémon roster data from Sm
  * Requests Library: Required for API calls and file downloads. Install via:
 
  ```Bash
-  pip install requests
+pip install requests
  ```
 ## 4. Database Configuration
 
@@ -44,11 +44,11 @@ This project uses SQLite for lightweight, local relational storage.
 
 Ensure the following NuGet packages are installed in your `Champions.Api` project:
 
- *`Microsoft.EntityFrameworkCore`
+ * `Microsoft.EntityFrameworkCore`
 
- *`Microsoft.EntityFrameworkCore.Design`
+ * `Microsoft.EntityFrameworkCore.Design`
 
- *`Microsoft.EntityFrameworkCore.Sqlite`
+ * `Microsoft.EntityFrameworkCore.Sqlite`
 
 ### Configuration
 
@@ -57,21 +57,21 @@ In `Champions.Api/Program.cs`, ensure your database context is registered to use
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
  options.UseSqlite("Data Source=champions.db"));
 ```
-##5. Development Workflow
+## 5. Development Workflow
 
 To initialize the project and seed the database, follow these steps in the terminal:
 
  1. Generate Developer Certificate: Enables secure HTTPS development.
  ```Bash
-  dotnet dev-certs https --trust
+dotnet dev-certs https --trust
  ```
  2. Generate Migration: Creates the initial SQL blueprint from your C# models.
  ```Bash
-  dotnet ef migrations add InitialCreate --project .\Champions.Api\
+dotnet ef migrations add InitialCreate --project .\Champions.Api\
  ```
  3. Run Application: Triggers the `DatabaseSeeder`, which reads your generated JSON files (Pokémon, Moves, Abilities, Items, and Custom Items) and injects them into `champions.db`.
  ```Bash
-  dotnet run --project .\Champions.Api\
+dotnet run --project .\Champions.Api\
  ```
 ## 6. Project Structure
 
