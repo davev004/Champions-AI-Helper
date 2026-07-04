@@ -1,0 +1,644 @@
+[
+    {
+        "Name": "Heat Rock",
+        "EffectDescription": "Held: Sunny Day by the holder lasts 8 rounds instead of 5.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Wise Glasses",
+        "EffectDescription": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%).",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Scope Lens",
+        "EffectDescription": "Held: Raises the holder\u2019s critical hit ratio by one stage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Sablenite",
+        "EffectDescription": "Held: Allows Sableye to Mega Evolve into Mega Sableye.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Never Melt Ice",
+        "EffectDescription": "Held: Ice-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Blazikenite",
+        "EffectDescription": "Held: Allows Blaziken to Mega Evolve into Mega Blaziken.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Fairy Feather",
+        "EffectDescription": "No description available.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Damp Rock",
+        "EffectDescription": "Held: Rain Dance by the holder lasts 8 rounds instead of 5.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Cameruptite",
+        "EffectDescription": "Held: Allows Camerupt to Mega Evolve into Mega Camerupt.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Black Glasses",
+        "EffectDescription": "Held: Dark-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Heracronite",
+        "EffectDescription": "Held: Allows Heracross to Mega Evolve into Mega Heracross.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Zoom Lens",
+        "EffectDescription": "Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Galladite",
+        "EffectDescription": "Held: Allows Gallade to Mega Evolve into Mega Gallade.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Mystic Water",
+        "EffectDescription": "Held: Water-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Altarianite",
+        "EffectDescription": "Held: Allows Altaria to Mega Evolve into Mega Altaria.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Muscle Band",
+        "EffectDescription": "Held: Boosts the damage of physical moves used by the holder by 10%.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Venusaurite",
+        "EffectDescription": "Held: Allows Venusaur to Mega Evolve into Mega Venusaur.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Twisted Spoon",
+        "EffectDescription": "Held: Psychic-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Payapa Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Lopunnite",
+        "EffectDescription": "Held: Allows Lopunny to Mega Evolve into Mega Lopunny.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Babiri Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Steel-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Audinite",
+        "EffectDescription": "Held: Allows Audino to Mega Evolve into Mega Audino.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Beedrillite",
+        "EffectDescription": "Held: Allows Beedrill to Mega Evolve into Mega Beedrill.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Alakazite",
+        "EffectDescription": "Held: Allows Alakazam to Mega Evolve into Mega Alakazam.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Medichamite",
+        "EffectDescription": "Held: Allows Medicham to Mega Evolve into Mega Medicham.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Silver Powder",
+        "EffectDescription": "Held: Bug-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Life Orb",
+        "EffectDescription": "Held: Holder\u2019s moves inflict 30% extra damage, but cost 10% max HP.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Metal Coat",
+        "EffectDescription": "Held: Steel-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Kings Rock",
+        "EffectDescription": "Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Light Ball",
+        "EffectDescription": "Doubles Pikachu\u2019s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Chesto Berry",
+        "EffectDescription": "Held: Consumed when asleep to cure sleep.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Tanga Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Charti Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Rock-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Manectite",
+        "EffectDescription": "Held: Allows Manectric to Mega Evolve into Mega Manectric.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Soft Sand",
+        "EffectDescription": "Held: Ground-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Big Root",
+        "EffectDescription": "Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%).",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Wacan Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Quick Claw",
+        "EffectDescription": "Held: Holder has a 3/16 (18.75%) chance to move first.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Icy Rock",
+        "EffectDescription": "Held: Hail by the holder lasts 8 rounds instead of 5.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Gardevoirite",
+        "EffectDescription": "Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Pidgeotite",
+        "EffectDescription": "Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Metagrossite",
+        "EffectDescription": "Held: Allows Metagross to Mega Evolve into Mega Metagross.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Sharp Beak",
+        "EffectDescription": "Held: Flying-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Gengarite",
+        "EffectDescription": "Held: Allows Gengar to Mega Evolve into Mega Gengar.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Slowbronite",
+        "EffectDescription": "Held: Allows Slowbro to Mega Evolve into Mega Slowbro.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Silk Scarf",
+        "EffectDescription": "Held: Normal-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Absolite",
+        "EffectDescription": "Held: Allows Absol to Mega Evolve into Mega Absol.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Leftovers",
+        "EffectDescription": "Held: Restores 1/16 (6.25%) holder\u2019s max HP at the end of each turn.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Sharpedonite",
+        "EffectDescription": "Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Light Clay",
+        "EffectDescription": "Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Black Belt",
+        "EffectDescription": "Held: Fighting-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Charizardite Y",
+        "EffectDescription": "Held: Allows Charizard to Mega Evolve into Mega Charizard Y.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Banettite",
+        "EffectDescription": "Held: Allows Banette to Mega Evolve into Mega Banette.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Charizardite X",
+        "EffectDescription": "Held: Allows Charizard to Mega Evolve into Mega Charizard X.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Kasib Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Shuca Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Bright Powder",
+        "EffectDescription": "Held: Increases the holder\u2019s evasion by 1/9 (11 1/9%).",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Houndoominite",
+        "EffectDescription": "Held: Allows Houndoom to Mega Evolve into Mega Houndoom.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Steelixite",
+        "EffectDescription": "Held: Allows Steelix to Mega Evolve into Mega Steelix.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Ampharosite",
+        "EffectDescription": "Held: Allows Ampharos to Mega Evolve into Mega Ampharos.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Spell Tag",
+        "EffectDescription": "Held: Ghost-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Magnet",
+        "EffectDescription": "Held: Electric-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Yache Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Abomasite",
+        "EffectDescription": "Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Focus Band",
+        "EffectDescription": "Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Tyranitarite",
+        "EffectDescription": "Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Passho Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Water-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Sitrus Berry",
+        "EffectDescription": "Held: Consumed at 1/2 max HP to recover 1/4 max HP.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Charcoal",
+        "EffectDescription": "Held: Fire-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Coba Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Flying-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Iron Ball",
+        "EffectDescription": "Held: Holder\u2019s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Mental Herb",
+        "EffectDescription": "Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Lum Berry",
+        "EffectDescription": "Held: Consumed to cure any status condition or confusion.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Rindo Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Expert Belt",
+        "EffectDescription": "Held: Holder\u2019s Super Effective moves do 20% extra damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Choice Scarf",
+        "EffectDescription": "Held: Increases Speed by 50%, but restricts the holder to only one move.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Focus Sash",
+        "EffectDescription": "Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Occa Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Kebia Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Roseli Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Swampertite",
+        "EffectDescription": "Held: Allows Swampert to Mega Evolve into Mega Swampert.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Aerodactylite",
+        "EffectDescription": "Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Kangaskhanite",
+        "EffectDescription": "Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Poison Barb",
+        "EffectDescription": "Held: Poison-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Wide Lens",
+        "EffectDescription": "Held: Provides a 1/10 (10%) boost in accuracy to the holder.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Chople Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Aggronite",
+        "EffectDescription": "Held: Allows Aggron to Mega Evolve into Mega Aggron.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Metronome",
+        "EffectDescription": "Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Scizorite",
+        "EffectDescription": "Held: Allows Scizor to Mega Evolve into Mega Scizor.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Gyaradosite",
+        "EffectDescription": "Held: Allows Gyarados to Mega Evolve into Mega Gyarados.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Mawilite",
+        "EffectDescription": "Held: Allows Mawile to Mega Evolve into Mega Mawile.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "White Herb",
+        "EffectDescription": "Held: Resets all lowered stats to normal at end of turn. Consumed after use.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Shed Shell",
+        "EffectDescription": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Colbur Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Persim Berry",
+        "EffectDescription": "Held: Consumed when confused to cure confusion.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Sceptilite",
+        "EffectDescription": "Held: Allows Sceptile to Mega Evolve into Mega Sceptile.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Shell Bell",
+        "EffectDescription": "Held: Holder receives 1/8 of the damage it deals when attacking.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Dragon Fang",
+        "EffectDescription": "Held: Dragon-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Glalitite",
+        "EffectDescription": "Held: Allows Glalie to Mega Evolve into Mega Glalie.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Pinsirite",
+        "EffectDescription": "Held: Allows Pinsir to Mega Evolve into Mega Pinsir.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Hard Stone",
+        "EffectDescription": "Held: Rock-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Blastoisinite",
+        "EffectDescription": "Held: Allows Blastoise to Mega Evolve into Mega Blastoise.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Lucarionite",
+        "EffectDescription": "Held: Allows Lucario to Mega Evolve into Mega Lucario.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Miracle Seed",
+        "EffectDescription": "Held: Grass-Type moves from holder do 20% more damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Garchompite",
+        "EffectDescription": "Held: Allows Garchomp to Mega Evolve into Mega Garchomp.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Haban Berry",
+        "EffectDescription": "Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Smooth Rock",
+        "EffectDescription": "Held: Sandstorm by the holder lasts 8 rounds instead of 5.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    }
+]

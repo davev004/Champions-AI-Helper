@@ -8,10 +8,10 @@ public class ApplicationDbContext : DbContext
     {
     }
 
-    public DbSet<Pokemon> Pokemon { get; set; }
-    public DbSet<Move> Moves { get; set; }
-    public DbSet<Item> Items { get; set; }
-    public DbSet<Ability> Abilities { get; set; }
+public DbSet<Pokemon> Pokemon { get; set; } = null!;
+public DbSet<Move> Moves { get; set; } = null!;
+public DbSet<Item> Items { get; set; } = null!;
+public DbSet<Ability> Abilities { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

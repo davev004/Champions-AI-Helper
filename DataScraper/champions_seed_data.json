@@ -1,0 +1,4660 @@
+[
+    {
+        "Name": "Sinistcha",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Ghost",
+        "Hp": 71,
+        "Attack": 60,
+        "Defense": 106,
+        "SpecialAttack": 121,
+        "SpecialDefense": 80,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Hospitality",
+            "Heatproof"
+        ]
+    },
+    {
+        "Name": "Garchomp",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Ground",
+        "Hp": 108,
+        "Attack": 130,
+        "Defense": 95,
+        "SpecialAttack": 80,
+        "SpecialDefense": 85,
+        "Speed": 102,
+        "LegalAbilities": [
+            "Sand-veil",
+            "Rough-skin"
+        ]
+    },
+    {
+        "Name": "Whimsicott",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fairy",
+        "Hp": 60,
+        "Attack": 67,
+        "Defense": 85,
+        "SpecialAttack": 77,
+        "SpecialDefense": 75,
+        "Speed": 116,
+        "LegalAbilities": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "Name": "Basculegion-male",
+        "PrimaryType": "Water",
+        "SecondaryType": "Ghost",
+        "Hp": 120,
+        "Attack": 112,
+        "Defense": 65,
+        "SpecialAttack": 80,
+        "SpecialDefense": 75,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Swift-swim",
+            "Adaptability",
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Incineroar",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Dark",
+        "Hp": 95,
+        "Attack": 115,
+        "Defense": 90,
+        "SpecialAttack": 80,
+        "SpecialDefense": 90,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Blaze",
+            "Intimidate"
+        ]
+    },
+    {
+        "Name": "Farigiraf",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Psychic",
+        "Hp": 120,
+        "Attack": 90,
+        "Defense": 70,
+        "SpecialAttack": 110,
+        "SpecialDefense": 70,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Cud-chew",
+            "Armor-tail",
+            "Sap-sipper"
+        ]
+    },
+    {
+        "Name": "Kingambit",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Steel",
+        "Hp": 100,
+        "Attack": 135,
+        "Defense": 120,
+        "SpecialAttack": 60,
+        "SpecialDefense": 85,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Defiant",
+            "Supreme-overlord",
+            "Pressure"
+        ]
+    },
+    {
+        "Name": "Pelipper",
+        "PrimaryType": "Water",
+        "SecondaryType": "Flying",
+        "Hp": 60,
+        "Attack": 50,
+        "Defense": 100,
+        "SpecialAttack": 95,
+        "SpecialDefense": 70,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Drizzle",
+            "Rain-dish"
+        ]
+    },
+    {
+        "Name": "Sneasler",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Poison",
+        "Hp": 80,
+        "Attack": 130,
+        "Defense": 60,
+        "SpecialAttack": 40,
+        "SpecialDefense": 80,
+        "Speed": 120,
+        "LegalAbilities": [
+            "Pressure",
+            "Unburden",
+            "Poison-touch"
+        ]
+    },
+    {
+        "Name": "Grimmsnarl",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Fairy",
+        "Hp": 95,
+        "Attack": 120,
+        "Defense": 65,
+        "SpecialAttack": 95,
+        "SpecialDefense": 75,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Prankster",
+            "Frisk",
+            "Pickpocket"
+        ]
+    },
+    {
+        "Name": "Staraptor-mega",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Flying",
+        "Hp": 85,
+        "Attack": 140,
+        "Defense": 100,
+        "SpecialAttack": 60,
+        "SpecialDefense": 90,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Contrary"
+        ]
+    },
+    {
+        "Name": "Archaludon",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Dragon",
+        "Hp": 90,
+        "Attack": 105,
+        "Defense": 130,
+        "SpecialAttack": 125,
+        "SpecialDefense": 65,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Stamina",
+            "Sturdy",
+            "Stalwart"
+        ]
+    },
+    {
+        "Name": "Swampert-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Ground",
+        "Hp": 100,
+        "Attack": 150,
+        "Defense": 110,
+        "SpecialAttack": 95,
+        "SpecialDefense": 110,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Swift-swim"
+        ]
+    },
+    {
+        "Name": "Metagross-mega",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Psychic",
+        "Hp": 80,
+        "Attack": 145,
+        "Defense": 150,
+        "SpecialAttack": 105,
+        "SpecialDefense": 110,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Tough-claws"
+        ]
+    },
+    {
+        "Name": "Gholdengo",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Ghost",
+        "Hp": 87,
+        "Attack": 60,
+        "Defense": 95,
+        "SpecialAttack": 133,
+        "SpecialDefense": 91,
+        "Speed": 84,
+        "LegalAbilities": [
+            "Good-as-gold"
+        ]
+    },
+    {
+        "Name": "Charizard-mega-y",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Flying",
+        "Hp": 78,
+        "Attack": 104,
+        "Defense": 78,
+        "SpecialAttack": 159,
+        "SpecialDefense": 115,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Drought"
+        ]
+    },
+    {
+        "Name": "Floette-mega",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 74,
+        "Attack": 85,
+        "Defense": 87,
+        "SpecialAttack": 155,
+        "SpecialDefense": 148,
+        "Speed": 102,
+        "LegalAbilities": [
+            "Fairy-aura"
+        ]
+    },
+    {
+        "Name": "Sylveon",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 65,
+        "Defense": 65,
+        "SpecialAttack": 110,
+        "SpecialDefense": 130,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Cute-charm",
+            "Pixilate"
+        ]
+    },
+    {
+        "Name": "Raichu-mega-y",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 100,
+        "Defense": 55,
+        "SpecialAttack": 160,
+        "SpecialDefense": 80,
+        "Speed": 130,
+        "LegalAbilities": [
+            "No-guard"
+        ]
+    },
+    {
+        "Name": "Torkoal",
+        "PrimaryType": "Fire",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 85,
+        "Defense": 140,
+        "SpecialAttack": 85,
+        "SpecialDefense": 70,
+        "Speed": 20,
+        "LegalAbilities": [
+            "White-smoke",
+            "Drought",
+            "Shell-armor"
+        ]
+    },
+    {
+        "Name": "Mawile-mega",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Fairy",
+        "Hp": 50,
+        "Attack": 105,
+        "Defense": 125,
+        "SpecialAttack": 55,
+        "SpecialDefense": 95,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Huge-power"
+        ]
+    },
+    {
+        "Name": "Sableye",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Ghost",
+        "Hp": 50,
+        "Attack": 75,
+        "Defense": 75,
+        "SpecialAttack": 65,
+        "SpecialDefense": 65,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Stall",
+            "Prankster"
+        ]
+    },
+    {
+        "Name": "Maushold-family-of-four",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 74,
+        "Attack": 75,
+        "Defense": 70,
+        "SpecialAttack": 65,
+        "SpecialDefense": 75,
+        "Speed": 111,
+        "LegalAbilities": [
+            "Friend-guard",
+            "Cheek-pouch",
+            "Technician"
+        ]
+    },
+    {
+        "Name": "Rotom-wash",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Water",
+        "Hp": 50,
+        "Attack": 65,
+        "Defense": 107,
+        "SpecialAttack": 105,
+        "SpecialDefense": 107,
+        "Speed": 86,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Milotic",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 60,
+        "Defense": 79,
+        "SpecialAttack": 100,
+        "SpecialDefense": 125,
+        "Speed": 81,
+        "LegalAbilities": [
+            "Marvel-scale",
+            "Competitive",
+            "Cute-charm"
+        ]
+    },
+    {
+        "Name": "Ninetales-alola",
+        "PrimaryType": "Ice",
+        "SecondaryType": "Fairy",
+        "Hp": 73,
+        "Attack": 67,
+        "Defense": 75,
+        "SpecialAttack": 81,
+        "SpecialDefense": 100,
+        "Speed": 109,
+        "LegalAbilities": [
+            "Snow-cloak",
+            "Snow-warning"
+        ]
+    },
+    {
+        "Name": "Hydreigon",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Dragon",
+        "Hp": 92,
+        "Attack": 105,
+        "Defense": 90,
+        "SpecialAttack": 125,
+        "SpecialDefense": 90,
+        "Speed": 98,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Annihilape",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Ghost",
+        "Hp": 110,
+        "Attack": 115,
+        "Defense": 80,
+        "SpecialAttack": 50,
+        "SpecialDefense": 90,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Vital-spirit",
+            "Inner-focus",
+            "Defiant"
+        ]
+    },
+    {
+        "Name": "Aerodactyl",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Flying",
+        "Hp": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "SpecialAttack": 60,
+        "SpecialDefense": 75,
+        "Speed": 130,
+        "LegalAbilities": [
+            "Rock-head",
+            "Pressure",
+            "Unnerve"
+        ]
+    },
+    {
+        "Name": "Talonflame",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Flying",
+        "Hp": 78,
+        "Attack": 81,
+        "Defense": 71,
+        "SpecialAttack": 74,
+        "SpecialDefense": 69,
+        "Speed": 126,
+        "LegalAbilities": [
+            "Flame-body",
+            "Gale-wings"
+        ]
+    },
+    {
+        "Name": "Delphox-mega",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Psychic",
+        "Hp": 75,
+        "Attack": 69,
+        "Defense": 72,
+        "SpecialAttack": 159,
+        "SpecialDefense": 125,
+        "Speed": 134,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Aerodactyl-mega",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Flying",
+        "Hp": 80,
+        "Attack": 135,
+        "Defense": 85,
+        "SpecialAttack": 70,
+        "SpecialDefense": 95,
+        "Speed": 150,
+        "LegalAbilities": [
+            "Tough-claws"
+        ]
+    },
+    {
+        "Name": "Froslass-mega",
+        "PrimaryType": "Ice",
+        "SecondaryType": "Ghost",
+        "Hp": 70,
+        "Attack": 80,
+        "Defense": 70,
+        "SpecialAttack": 140,
+        "SpecialDefense": 100,
+        "Speed": 120,
+        "LegalAbilities": [
+            "Snow-warning"
+        ]
+    },
+    {
+        "Name": "Pyroar-mega",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Normal",
+        "Hp": 86,
+        "Attack": 88,
+        "Defense": 92,
+        "SpecialAttack": 129,
+        "SpecialDefense": 86,
+        "Speed": 126,
+        "LegalAbilities": [
+            "Fire-mane"
+        ]
+    },
+    {
+        "Name": "Sceptile-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Dragon",
+        "Hp": 70,
+        "Attack": 110,
+        "Defense": 75,
+        "SpecialAttack": 145,
+        "SpecialDefense": 85,
+        "Speed": 145,
+        "LegalAbilities": [
+            "Lightning-rod"
+        ]
+    },
+    {
+        "Name": "Scrafty-mega",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Fighting",
+        "Hp": 65,
+        "Attack": 130,
+        "Defense": 135,
+        "SpecialAttack": 55,
+        "SpecialDefense": 135,
+        "Speed": 68,
+        "LegalAbilities": [
+            "Intimidate"
+        ]
+    },
+    {
+        "Name": "Tyranitar-mega",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Dark",
+        "Hp": 100,
+        "Attack": 164,
+        "Defense": 150,
+        "SpecialAttack": 95,
+        "SpecialDefense": 120,
+        "Speed": 71,
+        "LegalAbilities": [
+            "Sand-stream"
+        ]
+    },
+    {
+        "Name": "Eelektross-mega",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 85,
+        "Attack": 145,
+        "Defense": 80,
+        "SpecialAttack": 135,
+        "SpecialDefense": 90,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Eelevate"
+        ]
+    },
+    {
+        "Name": "Staraptor",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Flying",
+        "Hp": 85,
+        "Attack": 120,
+        "Defense": 70,
+        "SpecialAttack": 50,
+        "SpecialDefense": 60,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Intimidate",
+            "Reckless"
+        ]
+    },
+    {
+        "Name": "Gengar-mega",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Poison",
+        "Hp": 60,
+        "Attack": 65,
+        "Defense": 80,
+        "SpecialAttack": 170,
+        "SpecialDefense": 95,
+        "Speed": 130,
+        "LegalAbilities": [
+            "Shadow-tag"
+        ]
+    },
+    {
+        "Name": "Primarina",
+        "PrimaryType": "Water",
+        "SecondaryType": "Fairy",
+        "Hp": 80,
+        "Attack": 74,
+        "Defense": 74,
+        "SpecialAttack": 126,
+        "SpecialDefense": 116,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Torrent",
+            "Liquid-voice"
+        ]
+    },
+    {
+        "Name": "Rotom-heat",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Fire",
+        "Hp": 50,
+        "Attack": 65,
+        "Defense": 107,
+        "SpecialAttack": 105,
+        "SpecialDefense": 107,
+        "Speed": 86,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Blaziken-mega",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Fighting",
+        "Hp": 80,
+        "Attack": 160,
+        "Defense": 80,
+        "SpecialAttack": 130,
+        "SpecialDefense": 80,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Speed-boost"
+        ]
+    },
+    {
+        "Name": "Venusaur-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Poison",
+        "Hp": 80,
+        "Attack": 100,
+        "Defense": 123,
+        "SpecialAttack": 122,
+        "SpecialDefense": 120,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Thick-fat"
+        ]
+    },
+    {
+        "Name": "Ceruledge",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Ghost",
+        "Hp": 75,
+        "Attack": 125,
+        "Defense": 80,
+        "SpecialAttack": 60,
+        "SpecialDefense": 100,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Flash-fire",
+            "Weak-armor"
+        ]
+    },
+    {
+        "Name": "Clefable",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "SpecialAttack": 95,
+        "SpecialDefense": 90,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Cute-charm",
+            "Magic-guard",
+            "Unaware"
+        ]
+    },
+    {
+        "Name": "Tsareena",
+        "PrimaryType": "Grass",
+        "SecondaryType": null,
+        "Hp": 72,
+        "Attack": 120,
+        "Defense": 98,
+        "SpecialAttack": 50,
+        "SpecialDefense": 98,
+        "Speed": 72,
+        "LegalAbilities": [
+            "Leaf-guard",
+            "Queenly-majesty",
+            "Sweet-veil"
+        ]
+    },
+    {
+        "Name": "Venusaur",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Poison",
+        "Hp": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "SpecialAttack": 100,
+        "SpecialDefense": 100,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Overgrow",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "Name": "Politoed",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "SpecialAttack": 90,
+        "SpecialDefense": 100,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Water-absorb",
+            "Damp",
+            "Drizzle"
+        ]
+    },
+    {
+        "Name": "Corviknight",
+        "PrimaryType": "Flying",
+        "SecondaryType": "Steel",
+        "Hp": 98,
+        "Attack": 87,
+        "Defense": 105,
+        "SpecialAttack": 53,
+        "SpecialDefense": 85,
+        "Speed": 67,
+        "LegalAbilities": [
+            "Pressure",
+            "Unnerve",
+            "Mirror-armor"
+        ]
+    },
+    {
+        "Name": "Dragonite-mega",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Flying",
+        "Hp": 91,
+        "Attack": 124,
+        "Defense": 115,
+        "SpecialAttack": 145,
+        "SpecialDefense": 125,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Multiscale"
+        ]
+    },
+    {
+        "Name": "Blastoise-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 79,
+        "Attack": 103,
+        "Defense": 120,
+        "SpecialAttack": 135,
+        "SpecialDefense": 115,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Mega-launcher"
+        ]
+    },
+    {
+        "Name": "Typhlosion-hisui",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Ghost",
+        "Hp": 73,
+        "Attack": 84,
+        "Defense": 78,
+        "SpecialAttack": 119,
+        "SpecialDefense": 85,
+        "Speed": 95,
+        "LegalAbilities": [
+            "Blaze",
+            "Frisk"
+        ]
+    },
+    {
+        "Name": "Vileplume",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Poison",
+        "Hp": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "SpecialAttack": 110,
+        "SpecialDefense": 90,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Chlorophyll",
+            "Effect-spore"
+        ]
+    },
+    {
+        "Name": "Dragalge-mega",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Dragon",
+        "Hp": 65,
+        "Attack": 85,
+        "Defense": 105,
+        "SpecialAttack": 132,
+        "SpecialDefense": 163,
+        "Speed": 44,
+        "LegalAbilities": [
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Excadrill",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Steel",
+        "Hp": 110,
+        "Attack": 135,
+        "Defense": 60,
+        "SpecialAttack": 50,
+        "SpecialDefense": 65,
+        "Speed": 88,
+        "LegalAbilities": [
+            "Sand-rush",
+            "Sand-force",
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Toxapex",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Water",
+        "Hp": 50,
+        "Attack": 63,
+        "Defense": 152,
+        "SpecialAttack": 53,
+        "SpecialDefense": 142,
+        "Speed": 35,
+        "LegalAbilities": [
+            "Merciless",
+            "Limber",
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Kangaskhan",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "SpecialAttack": 40,
+        "SpecialDefense": 80,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Early-bird",
+            "Scrappy",
+            "Inner-focus"
+        ]
+    },
+    {
+        "Name": "Scovillain-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fire",
+        "Hp": 65,
+        "Attack": 138,
+        "Defense": 85,
+        "SpecialAttack": 138,
+        "SpecialDefense": 85,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Spicy-spray"
+        ]
+    },
+    {
+        "Name": "Mamoswine",
+        "PrimaryType": "Ice",
+        "SecondaryType": "Ground",
+        "Hp": 110,
+        "Attack": 130,
+        "Defense": 80,
+        "SpecialAttack": 70,
+        "SpecialDefense": 60,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Oblivious",
+            "Snow-cloak",
+            "Thick-fat"
+        ]
+    },
+    {
+        "Name": "Raichu-mega-x",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 135,
+        "Defense": 95,
+        "SpecialAttack": 90,
+        "SpecialDefense": 95,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Electric-surge"
+        ]
+    },
+    {
+        "Name": "Gardevoir-mega",
+        "PrimaryType": "Psychic",
+        "SecondaryType": "Fairy",
+        "Hp": 68,
+        "Attack": 85,
+        "Defense": 65,
+        "SpecialAttack": 165,
+        "SpecialDefense": 135,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Pixilate"
+        ]
+    },
+    {
+        "Name": "Glimmora",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Poison",
+        "Hp": 83,
+        "Attack": 55,
+        "Defense": 90,
+        "SpecialAttack": 130,
+        "SpecialDefense": 81,
+        "Speed": 86,
+        "LegalAbilities": [
+            "Toxic-debris",
+            "Corrosion"
+        ]
+    },
+    {
+        "Name": "Raichu",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "SpecialAttack": 90,
+        "SpecialDefense": 80,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Static",
+            "Lightning-rod"
+        ]
+    },
+    {
+        "Name": "Tyranitar",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Dark",
+        "Hp": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "SpecialAttack": 95,
+        "SpecialDefense": 100,
+        "Speed": 61,
+        "LegalAbilities": [
+            "Sand-stream",
+            "Unnerve"
+        ]
+    },
+    {
+        "Name": "Aegislash-shield",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Ghost",
+        "Hp": 60,
+        "Attack": 50,
+        "Defense": 140,
+        "SpecialAttack": 50,
+        "SpecialDefense": 140,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Stance-change"
+        ]
+    },
+    {
+        "Name": "Volcarona",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Fire",
+        "Hp": 85,
+        "Attack": 60,
+        "Defense": 65,
+        "SpecialAttack": 135,
+        "SpecialDefense": 105,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Flame-body",
+            "Swarm"
+        ]
+    },
+    {
+        "Name": "Dragapult",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Ghost",
+        "Hp": 88,
+        "Attack": 120,
+        "Defense": 75,
+        "SpecialAttack": 100,
+        "SpecialDefense": 75,
+        "Speed": 142,
+        "LegalAbilities": [
+            "Clear-body",
+            "Infiltrator",
+            "Cursed-body"
+        ]
+    },
+    {
+        "Name": "Camerupt-mega",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Ground",
+        "Hp": 70,
+        "Attack": 120,
+        "Defense": 100,
+        "SpecialAttack": 145,
+        "SpecialDefense": 105,
+        "Speed": 20,
+        "LegalAbilities": [
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Oranguru",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Psychic",
+        "Hp": 90,
+        "Attack": 60,
+        "Defense": 80,
+        "SpecialAttack": 90,
+        "SpecialDefense": 110,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Inner-focus",
+            "Telepathy",
+            "Symbiosis"
+        ]
+    },
+    {
+        "Name": "Meganium-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fairy",
+        "Hp": 80,
+        "Attack": 92,
+        "Defense": 115,
+        "SpecialAttack": 143,
+        "SpecialDefense": 115,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Mega-sol"
+        ]
+    },
+    {
+        "Name": "Dragonite",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Flying",
+        "Hp": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "SpecialAttack": 100,
+        "SpecialDefense": 100,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Inner-focus",
+            "Multiscale"
+        ]
+    },
+    {
+        "Name": "Ninetales",
+        "PrimaryType": "Fire",
+        "SecondaryType": null,
+        "Hp": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "SpecialAttack": 81,
+        "SpecialDefense": 100,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Flash-fire",
+            "Drought"
+        ]
+    },
+    {
+        "Name": "Arcanine-hisui",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Rock",
+        "Hp": 95,
+        "Attack": 115,
+        "Defense": 80,
+        "SpecialAttack": 95,
+        "SpecialDefense": 80,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Intimidate",
+            "Flash-fire",
+            "Rock-head"
+        ]
+    },
+    {
+        "Name": "Meowscarada",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Dark",
+        "Hp": 76,
+        "Attack": 110,
+        "Defense": 70,
+        "SpecialAttack": 81,
+        "SpecialDefense": 70,
+        "Speed": 123,
+        "LegalAbilities": [
+            "Overgrow",
+            "Protean"
+        ]
+    },
+    {
+        "Name": "Kommo-o",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Fighting",
+        "Hp": 75,
+        "Attack": 110,
+        "Defense": 125,
+        "SpecialAttack": 100,
+        "SpecialDefense": 105,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    },
+    {
+        "Name": "Gallade",
+        "PrimaryType": "Psychic",
+        "SecondaryType": "Fighting",
+        "Hp": 68,
+        "Attack": 125,
+        "Defense": 65,
+        "SpecialAttack": 65,
+        "SpecialDefense": 115,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Steadfast",
+            "Sharpness",
+            "Justified"
+        ]
+    },
+    {
+        "Name": "Vivillon",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Flying",
+        "Hp": 80,
+        "Attack": 52,
+        "Defense": 50,
+        "SpecialAttack": 90,
+        "SpecialDefense": 50,
+        "Speed": 89,
+        "LegalAbilities": [
+            "Shield-dust",
+            "Compound-eyes",
+            "Friend-guard"
+        ]
+    },
+    {
+        "Name": "Hatterene",
+        "PrimaryType": "Psychic",
+        "SecondaryType": "Fairy",
+        "Hp": 57,
+        "Attack": 90,
+        "Defense": 95,
+        "SpecialAttack": 136,
+        "SpecialDefense": 103,
+        "Speed": 29,
+        "LegalAbilities": [
+            "Healer",
+            "Anticipation",
+            "Magic-bounce"
+        ]
+    },
+    {
+        "Name": "Araquanid",
+        "PrimaryType": "Water",
+        "SecondaryType": "Bug",
+        "Hp": 68,
+        "Attack": 70,
+        "Defense": 92,
+        "SpecialAttack": 50,
+        "SpecialDefense": 132,
+        "Speed": 42,
+        "LegalAbilities": [
+            "Water-bubble",
+            "Water-absorb"
+        ]
+    },
+    {
+        "Name": "Lycanroc-dusk",
+        "PrimaryType": "Rock",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 117,
+        "Defense": 65,
+        "SpecialAttack": 55,
+        "SpecialDefense": 65,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Tough-claws"
+        ]
+    },
+    {
+        "Name": "Malamar-mega",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Psychic",
+        "Hp": 86,
+        "Attack": 102,
+        "Defense": 88,
+        "SpecialAttack": 98,
+        "SpecialDefense": 120,
+        "Speed": 88,
+        "LegalAbilities": [
+            "Contrary"
+        ]
+    },
+    {
+        "Name": "Zoroark-hisui",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Ghost",
+        "Hp": 55,
+        "Attack": 100,
+        "Defense": 60,
+        "SpecialAttack": 125,
+        "SpecialDefense": 60,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Illusion"
+        ]
+    },
+    {
+        "Name": "Palafin-zero",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 100,
+        "Attack": 70,
+        "Defense": 72,
+        "SpecialAttack": 53,
+        "SpecialDefense": 62,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Zero-to-hero"
+        ]
+    },
+    {
+        "Name": "Scizor-mega",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Steel",
+        "Hp": 70,
+        "Attack": 150,
+        "Defense": 140,
+        "SpecialAttack": 65,
+        "SpecialDefense": 100,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Technician"
+        ]
+    },
+    {
+        "Name": "Kangaskhan-mega",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 105,
+        "Attack": 125,
+        "Defense": 100,
+        "SpecialAttack": 60,
+        "SpecialDefense": 100,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Parental-bond"
+        ]
+    },
+    {
+        "Name": "Glimmora-mega",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Poison",
+        "Hp": 83,
+        "Attack": 90,
+        "Defense": 105,
+        "SpecialAttack": 150,
+        "SpecialDefense": 96,
+        "Speed": 101,
+        "LegalAbilities": [
+            "Adaptability"
+        ]
+    },
+    {
+        "Name": "Tinkaton",
+        "PrimaryType": "Fairy",
+        "SecondaryType": "Steel",
+        "Hp": 85,
+        "Attack": 75,
+        "Defense": 77,
+        "SpecialAttack": 70,
+        "SpecialDefense": 105,
+        "Speed": 94,
+        "LegalAbilities": [
+            "Mold-breaker",
+            "Own-tempo",
+            "Pickpocket"
+        ]
+    },
+    {
+        "Name": "Weavile",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Ice",
+        "Hp": 70,
+        "Attack": 120,
+        "Defense": 65,
+        "SpecialAttack": 45,
+        "SpecialDefense": 85,
+        "Speed": 125,
+        "LegalAbilities": [
+            "Pressure",
+            "Pickpocket"
+        ]
+    },
+    {
+        "Name": "Houndstone",
+        "PrimaryType": "Ghost",
+        "SecondaryType": null,
+        "Hp": 72,
+        "Attack": 101,
+        "Defense": 100,
+        "SpecialAttack": 50,
+        "SpecialDefense": 97,
+        "Speed": 68,
+        "LegalAbilities": [
+            "Sand-rush",
+            "Fluffy"
+        ]
+    },
+    {
+        "Name": "Mimikyu-disguised",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Fairy",
+        "Hp": 55,
+        "Attack": 90,
+        "Defense": 80,
+        "SpecialAttack": 50,
+        "SpecialDefense": 105,
+        "Speed": 96,
+        "LegalAbilities": [
+            "Disguise"
+        ]
+    },
+    {
+        "Name": "Blaziken",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Fighting",
+        "Hp": 80,
+        "Attack": 120,
+        "Defense": 70,
+        "SpecialAttack": 110,
+        "SpecialDefense": 70,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Blaze",
+            "Speed-boost"
+        ]
+    },
+    {
+        "Name": "Overqwil",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Poison",
+        "Hp": 85,
+        "Attack": 115,
+        "Defense": 95,
+        "SpecialAttack": 65,
+        "SpecialDefense": 65,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Poison-point",
+            "Swift-swim",
+            "Intimidate"
+        ]
+    },
+    {
+        "Name": "Metagross",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Psychic",
+        "Hp": 80,
+        "Attack": 135,
+        "Defense": 130,
+        "SpecialAttack": 95,
+        "SpecialDefense": 90,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Clear-body",
+            "Light-metal"
+        ]
+    },
+    {
+        "Name": "Espathra",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 60,
+        "Defense": 60,
+        "SpecialAttack": 101,
+        "SpecialDefense": 60,
+        "Speed": 105,
+        "LegalAbilities": [
+            "Opportunist",
+            "Frisk",
+            "Speed-boost"
+        ]
+    },
+    {
+        "Name": "Vanilluxe",
+        "PrimaryType": "Ice",
+        "SecondaryType": null,
+        "Hp": 71,
+        "Attack": 95,
+        "Defense": 85,
+        "SpecialAttack": 110,
+        "SpecialDefense": 95,
+        "Speed": 79,
+        "LegalAbilities": [
+            "Ice-body",
+            "Snow-warning",
+            "Weak-armor"
+        ]
+    },
+    {
+        "Name": "Heliolisk",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Normal",
+        "Hp": 62,
+        "Attack": 55,
+        "Defense": 52,
+        "SpecialAttack": 109,
+        "SpecialDefense": 94,
+        "Speed": 109,
+        "LegalAbilities": [
+            "Dry-skin",
+            "Sand-veil",
+            "Solar-power"
+        ]
+    },
+    {
+        "Name": "Gyarados-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dark",
+        "Hp": 95,
+        "Attack": 155,
+        "Defense": 109,
+        "SpecialAttack": 70,
+        "SpecialDefense": 130,
+        "Speed": 81,
+        "LegalAbilities": [
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Scizor",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Steel",
+        "Hp": 70,
+        "Attack": 130,
+        "Defense": 100,
+        "SpecialAttack": 55,
+        "SpecialDefense": 80,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Swarm",
+            "Technician",
+            "Light-metal"
+        ]
+    },
+    {
+        "Name": "Gyarados",
+        "PrimaryType": "Water",
+        "SecondaryType": "Flying",
+        "Hp": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "SpecialAttack": 60,
+        "SpecialDefense": 100,
+        "Speed": 81,
+        "LegalAbilities": [
+            "Intimidate",
+            "Moxie"
+        ]
+    },
+    {
+        "Name": "Meowstic-male",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 74,
+        "Attack": 48,
+        "Defense": 76,
+        "SpecialAttack": 83,
+        "SpecialDefense": 81,
+        "Speed": 104,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Infiltrator",
+            "Prankster"
+        ]
+    },
+    {
+        "Name": "Lopunny-mega",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Fighting",
+        "Hp": 65,
+        "Attack": 136,
+        "Defense": 94,
+        "SpecialAttack": 54,
+        "SpecialDefense": 96,
+        "Speed": 135,
+        "LegalAbilities": [
+            "Scrappy"
+        ]
+    },
+    {
+        "Name": "Drampa-mega",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Dragon",
+        "Hp": 78,
+        "Attack": 85,
+        "Defense": 110,
+        "SpecialAttack": 160,
+        "SpecialDefense": 116,
+        "Speed": 36,
+        "LegalAbilities": [
+            "Berserk"
+        ]
+    },
+    {
+        "Name": "Samurott-hisui",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dark",
+        "Hp": 90,
+        "Attack": 108,
+        "Defense": 80,
+        "SpecialAttack": 100,
+        "SpecialDefense": 65,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Torrent",
+            "Sharpness"
+        ]
+    },
+    {
+        "Name": "Scrafty",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Fighting",
+        "Hp": 65,
+        "Attack": 90,
+        "Defense": 115,
+        "SpecialAttack": 45,
+        "SpecialDefense": 115,
+        "Speed": 58,
+        "LegalAbilities": [
+            "Shed-skin",
+            "Moxie",
+            "Intimidate"
+        ]
+    },
+    {
+        "Name": "Armarouge",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Psychic",
+        "Hp": 85,
+        "Attack": 60,
+        "Defense": 100,
+        "SpecialAttack": 125,
+        "SpecialDefense": 80,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Flash-fire",
+            "Weak-armor"
+        ]
+    },
+    {
+        "Name": "Jolteon",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "SpecialAttack": 110,
+        "SpecialDefense": 95,
+        "Speed": 130,
+        "LegalAbilities": [
+            "Volt-absorb",
+            "Quick-feet"
+        ]
+    },
+    {
+        "Name": "Falinks-mega",
+        "PrimaryType": "Fighting",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 135,
+        "Defense": 135,
+        "SpecialAttack": 70,
+        "SpecialDefense": 65,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Defiant"
+        ]
+    },
+    {
+        "Name": "Snorlax",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "SpecialAttack": 65,
+        "SpecialDefense": 110,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Immunity",
+            "Thick-fat",
+            "Gluttony"
+        ]
+    },
+    {
+        "Name": "Kleavor",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Rock",
+        "Hp": 70,
+        "Attack": 135,
+        "Defense": 95,
+        "SpecialAttack": 45,
+        "SpecialDefense": 70,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Swarm",
+            "Sheer-force",
+            "Sharpness"
+        ]
+    },
+    {
+        "Name": "Crabominable-mega",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Ice",
+        "Hp": 97,
+        "Attack": 157,
+        "Defense": 122,
+        "SpecialAttack": 62,
+        "SpecialDefense": 107,
+        "Speed": 33,
+        "LegalAbilities": [
+            "Iron-fist"
+        ]
+    },
+    {
+        "Name": "Lucario-mega",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Steel",
+        "Hp": 70,
+        "Attack": 145,
+        "Defense": 88,
+        "SpecialAttack": 140,
+        "SpecialDefense": 70,
+        "Speed": 112,
+        "LegalAbilities": [
+            "Adaptability"
+        ]
+    },
+    {
+        "Name": "Chandelure-mega",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Fire",
+        "Hp": 60,
+        "Attack": 75,
+        "Defense": 110,
+        "SpecialAttack": 175,
+        "SpecialDefense": 110,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Infiltrator"
+        ]
+    },
+    {
+        "Name": "Charizard-mega-x",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Dragon",
+        "Hp": 78,
+        "Attack": 130,
+        "Defense": 111,
+        "SpecialAttack": 130,
+        "SpecialDefense": 85,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Tough-claws"
+        ]
+    },
+    {
+        "Name": "Barbaracle-mega",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Fighting",
+        "Hp": 72,
+        "Attack": 140,
+        "Defense": 130,
+        "SpecialAttack": 64,
+        "SpecialDefense": 106,
+        "Speed": 88,
+        "LegalAbilities": [
+            "Tough-claws"
+        ]
+    },
+    {
+        "Name": "Slowking-galar",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Psychic",
+        "Hp": 95,
+        "Attack": 65,
+        "Defense": 80,
+        "SpecialAttack": 110,
+        "SpecialDefense": 110,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Curious-medicine",
+            "Own-tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Scolipede-mega",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Poison",
+        "Hp": 60,
+        "Attack": 140,
+        "Defense": 149,
+        "SpecialAttack": 75,
+        "SpecialDefense": 99,
+        "Speed": 62,
+        "LegalAbilities": [
+            "Shell-armor"
+        ]
+    },
+    {
+        "Name": "Garchomp-mega",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Ground",
+        "Hp": 108,
+        "Attack": 170,
+        "Defense": 115,
+        "SpecialAttack": 120,
+        "SpecialDefense": 95,
+        "Speed": 92,
+        "LegalAbilities": [
+            "Sand-force"
+        ]
+    },
+    {
+        "Name": "Azumarill",
+        "PrimaryType": "Water",
+        "SecondaryType": "Fairy",
+        "Hp": 100,
+        "Attack": 50,
+        "Defense": 80,
+        "SpecialAttack": 60,
+        "SpecialDefense": 80,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Thick-fat",
+            "Huge-power",
+            "Sap-sipper"
+        ]
+    },
+    {
+        "Name": "Skeledirge",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Ghost",
+        "Hp": 104,
+        "Attack": 75,
+        "Defense": 100,
+        "SpecialAttack": 110,
+        "SpecialDefense": 75,
+        "Speed": 66,
+        "LegalAbilities": [
+            "Blaze",
+            "Unaware"
+        ]
+    },
+    {
+        "Name": "Abomasnow-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Ice",
+        "Hp": 90,
+        "Attack": 132,
+        "Defense": 105,
+        "SpecialAttack": 132,
+        "SpecialDefense": 105,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Snow-warning"
+        ]
+    },
+    {
+        "Name": "Ampharos-mega",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Dragon",
+        "Hp": 90,
+        "Attack": 95,
+        "Defense": 105,
+        "SpecialAttack": 165,
+        "SpecialDefense": 110,
+        "Speed": 45,
+        "LegalAbilities": [
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Rotom-mow",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Grass",
+        "Hp": 50,
+        "Attack": 65,
+        "Defense": 107,
+        "SpecialAttack": 105,
+        "SpecialDefense": 107,
+        "Speed": 86,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Chandelure",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Fire",
+        "Hp": 60,
+        "Attack": 55,
+        "Defense": 90,
+        "SpecialAttack": 145,
+        "SpecialDefense": 90,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Flash-fire",
+            "Flame-body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "Name": "Starmie-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Psychic",
+        "Hp": 60,
+        "Attack": 100,
+        "Defense": 105,
+        "SpecialAttack": 130,
+        "SpecialDefense": 105,
+        "Speed": 120,
+        "LegalAbilities": [
+            "Huge-power"
+        ]
+    },
+    {
+        "Name": "Aggron-mega",
+        "PrimaryType": "Steel",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 140,
+        "Defense": 230,
+        "SpecialAttack": 60,
+        "SpecialDefense": 80,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Filter"
+        ]
+    },
+    {
+        "Name": "Ditto",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "SpecialAttack": 48,
+        "SpecialDefense": 48,
+        "Speed": 48,
+        "LegalAbilities": [
+            "Limber",
+            "Imposter"
+        ]
+    },
+    {
+        "Name": "Cofagrigus",
+        "PrimaryType": "Ghost",
+        "SecondaryType": null,
+        "Hp": 58,
+        "Attack": 50,
+        "Defense": 145,
+        "SpecialAttack": 95,
+        "SpecialDefense": 105,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Mummy"
+        ]
+    },
+    {
+        "Name": "Gardevoir",
+        "PrimaryType": "Psychic",
+        "SecondaryType": "Fairy",
+        "Hp": 68,
+        "Attack": 65,
+        "Defense": 65,
+        "SpecialAttack": 125,
+        "SpecialDefense": 115,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "Name": "Bellibolt",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 109,
+        "Attack": 64,
+        "Defense": 91,
+        "SpecialAttack": 103,
+        "SpecialDefense": 83,
+        "Speed": 45,
+        "LegalAbilities": [
+            "Electromorphosis",
+            "Static",
+            "Damp"
+        ]
+    },
+    {
+        "Name": "Empoleon",
+        "PrimaryType": "Water",
+        "SecondaryType": "Steel",
+        "Hp": 84,
+        "Attack": 86,
+        "Defense": 88,
+        "SpecialAttack": 111,
+        "SpecialDefense": 101,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Torrent",
+            "Competitive"
+        ]
+    },
+    {
+        "Name": "Wyrdeer",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Psychic",
+        "Hp": 103,
+        "Attack": 105,
+        "Defense": 72,
+        "SpecialAttack": 105,
+        "SpecialDefense": 75,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Intimidate",
+            "Frisk",
+            "Sap-sipper"
+        ]
+    },
+    {
+        "Name": "Clefable-mega",
+        "PrimaryType": "Fairy",
+        "SecondaryType": "Flying",
+        "Hp": 95,
+        "Attack": 80,
+        "Defense": 93,
+        "SpecialAttack": 135,
+        "SpecialDefense": 110,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Magic-bounce"
+        ]
+    },
+    {
+        "Name": "Serperior",
+        "PrimaryType": "Grass",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 75,
+        "Defense": 95,
+        "SpecialAttack": 75,
+        "SpecialDefense": 95,
+        "Speed": 113,
+        "LegalAbilities": [
+            "Overgrow",
+            "Contrary"
+        ]
+    },
+    {
+        "Name": "Rhyperior",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Rock",
+        "Hp": 115,
+        "Attack": 140,
+        "Defense": 130,
+        "SpecialAttack": 55,
+        "SpecialDefense": 55,
+        "Speed": 40,
+        "LegalAbilities": [
+            "Lightning-rod",
+            "Solid-rock",
+            "Reckless"
+        ]
+    },
+    {
+        "Name": "Klefki",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Fairy",
+        "Hp": 57,
+        "Attack": 80,
+        "Defense": 91,
+        "SpecialAttack": 80,
+        "SpecialDefense": 87,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Prankster",
+            "Magician"
+        ]
+    },
+    {
+        "Name": "Decidueye-hisui",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fighting",
+        "Hp": 88,
+        "Attack": 112,
+        "Defense": 80,
+        "SpecialAttack": 95,
+        "SpecialDefense": 95,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Overgrow",
+            "Scrappy"
+        ]
+    },
+    {
+        "Name": "Mr-rime",
+        "PrimaryType": "Ice",
+        "SecondaryType": "Psychic",
+        "Hp": 80,
+        "Attack": 85,
+        "Defense": 75,
+        "SpecialAttack": 110,
+        "SpecialDefense": 100,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Tangled-feet",
+            "Screen-cleaner",
+            "Ice-body"
+        ]
+    },
+    {
+        "Name": "Basculegion-female",
+        "PrimaryType": "Water",
+        "SecondaryType": "Ghost",
+        "Hp": 120,
+        "Attack": 92,
+        "Defense": 65,
+        "SpecialAttack": 100,
+        "SpecialDefense": 75,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Swift-swim",
+            "Adaptability",
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Golurk-mega",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Ghost",
+        "Hp": 89,
+        "Attack": 159,
+        "Defense": 105,
+        "SpecialAttack": 70,
+        "SpecialDefense": 105,
+        "Speed": 55,
+        "LegalAbilities": [
+            "Unseen-fist"
+        ]
+    },
+    {
+        "Name": "Liepard",
+        "PrimaryType": "Dark",
+        "SecondaryType": null,
+        "Hp": 64,
+        "Attack": 88,
+        "Defense": 50,
+        "SpecialAttack": 88,
+        "SpecialDefense": 50,
+        "Speed": 106,
+        "LegalAbilities": [
+            "Limber",
+            "Unburden",
+            "Prankster"
+        ]
+    },
+    {
+        "Name": "Malamar",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Psychic",
+        "Hp": 86,
+        "Attack": 92,
+        "Defense": 88,
+        "SpecialAttack": 68,
+        "SpecialDefense": 75,
+        "Speed": 73,
+        "LegalAbilities": [
+            "Contrary",
+            "Suction-cups",
+            "Infiltrator"
+        ]
+    },
+    {
+        "Name": "Mudsdale",
+        "PrimaryType": "Ground",
+        "SecondaryType": null,
+        "Hp": 100,
+        "Attack": 125,
+        "Defense": 100,
+        "SpecialAttack": 55,
+        "SpecialDefense": 85,
+        "Speed": 35,
+        "LegalAbilities": [
+            "Own-tempo",
+            "Stamina",
+            "Inner-focus"
+        ]
+    },
+    {
+        "Name": "Swampert",
+        "PrimaryType": "Water",
+        "SecondaryType": "Ground",
+        "Hp": 100,
+        "Attack": 110,
+        "Defense": 90,
+        "SpecialAttack": 85,
+        "SpecialDefense": 90,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Torrent",
+            "Damp"
+        ]
+    },
+    {
+        "Name": "Gliscor",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Flying",
+        "Hp": 75,
+        "Attack": 95,
+        "Defense": 125,
+        "SpecialAttack": 45,
+        "SpecialDefense": 75,
+        "Speed": 95,
+        "LegalAbilities": [
+            "Hyper-cutter",
+            "Sand-veil",
+            "Poison-heal"
+        ]
+    },
+    {
+        "Name": "Lucario",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Steel",
+        "Hp": 70,
+        "Attack": 110,
+        "Defense": 70,
+        "SpecialAttack": 115,
+        "SpecialDefense": 70,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Steadfast",
+            "Inner-focus",
+            "Justified"
+        ]
+    },
+    {
+        "Name": "Arcanine",
+        "PrimaryType": "Fire",
+        "SecondaryType": null,
+        "Hp": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "SpecialAttack": 100,
+        "SpecialDefense": 80,
+        "Speed": 95,
+        "LegalAbilities": [
+            "Intimidate",
+            "Flash-fire",
+            "Justified"
+        ]
+    },
+    {
+        "Name": "Conkeldurr",
+        "PrimaryType": "Fighting",
+        "SecondaryType": null,
+        "Hp": 105,
+        "Attack": 140,
+        "Defense": 95,
+        "SpecialAttack": 55,
+        "SpecialDefense": 65,
+        "Speed": 45,
+        "LegalAbilities": [
+            "Guts",
+            "Sheer-force",
+            "Iron-fist"
+        ]
+    },
+    {
+        "Name": "Greninja-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dark",
+        "Hp": 72,
+        "Attack": 125,
+        "Defense": 77,
+        "SpecialAttack": 133,
+        "SpecialDefense": 81,
+        "Speed": 142,
+        "LegalAbilities": [
+            "Protean"
+        ]
+    },
+    {
+        "Name": "Greninja",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dark",
+        "Hp": 72,
+        "Attack": 95,
+        "Defense": 67,
+        "SpecialAttack": 103,
+        "SpecialDefense": 71,
+        "Speed": 122,
+        "LegalAbilities": [
+            "Torrent",
+            "Protean"
+        ]
+    },
+    {
+        "Name": "Gengar",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Poison",
+        "Hp": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "SpecialAttack": 130,
+        "SpecialDefense": 75,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Cursed-body"
+        ]
+    },
+    {
+        "Name": "Alcremie",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 60,
+        "Defense": 75,
+        "SpecialAttack": 110,
+        "SpecialDefense": 121,
+        "Speed": 64,
+        "LegalAbilities": [
+            "Sweet-veil",
+            "Aroma-veil"
+        ]
+    },
+    {
+        "Name": "Orthworm",
+        "PrimaryType": "Steel",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 85,
+        "Defense": 145,
+        "SpecialAttack": 60,
+        "SpecialDefense": 55,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Earth-eater",
+            "Sand-veil"
+        ]
+    },
+    {
+        "Name": "Tauros-paldea-aqua-breed",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Water",
+        "Hp": 75,
+        "Attack": 110,
+        "Defense": 105,
+        "SpecialAttack": 30,
+        "SpecialDefense": 70,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Intimidate",
+            "Anger-point",
+            "Cud-chew"
+        ]
+    },
+    {
+        "Name": "Goodra-hisui",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Dragon",
+        "Hp": 80,
+        "Attack": 100,
+        "Defense": 100,
+        "SpecialAttack": 110,
+        "SpecialDefense": 150,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Sap-sipper",
+            "Shell-armor",
+            "Gooey"
+        ]
+    },
+    {
+        "Name": "Noivern",
+        "PrimaryType": "Flying",
+        "SecondaryType": "Dragon",
+        "Hp": 85,
+        "Attack": 70,
+        "Defense": 80,
+        "SpecialAttack": 97,
+        "SpecialDefense": 80,
+        "Speed": 123,
+        "LegalAbilities": [
+            "Frisk",
+            "Infiltrator",
+            "Telepathy"
+        ]
+    },
+    {
+        "Name": "Hydrapple",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Dragon",
+        "Hp": 106,
+        "Attack": 80,
+        "Defense": 110,
+        "SpecialAttack": 120,
+        "SpecialDefense": 80,
+        "Speed": 44,
+        "LegalAbilities": [
+            "Supersweet-syrup",
+            "Regenerator",
+            "Sticky-hold"
+        ]
+    },
+    {
+        "Name": "Umbreon",
+        "PrimaryType": "Dark",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 65,
+        "Defense": 110,
+        "SpecialAttack": 60,
+        "SpecialDefense": 130,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Synchronize",
+            "Inner-focus"
+        ]
+    },
+    {
+        "Name": "Skarmory-mega",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Flying",
+        "Hp": 65,
+        "Attack": 140,
+        "Defense": 110,
+        "SpecialAttack": 40,
+        "SpecialDefense": 100,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Stalwart"
+        ]
+    },
+    {
+        "Name": "Reuniclus",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 110,
+        "Attack": 65,
+        "Defense": 75,
+        "SpecialAttack": 125,
+        "SpecialDefense": 85,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Overcoat",
+            "Magic-guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Hawlucha-mega",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Flying",
+        "Hp": 78,
+        "Attack": 137,
+        "Defense": 100,
+        "SpecialAttack": 74,
+        "SpecialDefense": 93,
+        "Speed": 118,
+        "LegalAbilities": [
+            "No-guard"
+        ]
+    },
+    {
+        "Name": "Chesnaught-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fighting",
+        "Hp": 88,
+        "Attack": 137,
+        "Defense": 172,
+        "SpecialAttack": 74,
+        "SpecialDefense": 115,
+        "Speed": 44,
+        "LegalAbilities": [
+            "Bulletproof"
+        ]
+    },
+    {
+        "Name": "Drampa",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Dragon",
+        "Hp": 78,
+        "Attack": 60,
+        "Defense": 85,
+        "SpecialAttack": 135,
+        "SpecialDefense": 91,
+        "Speed": 36,
+        "LegalAbilities": [
+            "Berserk",
+            "Sap-sipper",
+            "Cloud-nine"
+        ]
+    },
+    {
+        "Name": "Rotom-frost",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Ice",
+        "Hp": 50,
+        "Attack": 65,
+        "Defense": 107,
+        "SpecialAttack": 105,
+        "SpecialDefense": 107,
+        "Speed": 86,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Krookodile",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Dark",
+        "Hp": 95,
+        "Attack": 117,
+        "Defense": 80,
+        "SpecialAttack": 65,
+        "SpecialDefense": 70,
+        "Speed": 92,
+        "LegalAbilities": [
+            "Intimidate",
+            "Moxie",
+            "Anger-point"
+        ]
+    },
+    {
+        "Name": "Dragalge",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Dragon",
+        "Hp": 65,
+        "Attack": 75,
+        "Defense": 90,
+        "SpecialAttack": 97,
+        "SpecialDefense": 123,
+        "Speed": 44,
+        "LegalAbilities": [
+            "Poison-point",
+            "Poison-touch",
+            "Adaptability"
+        ]
+    },
+    {
+        "Name": "Banette-mega",
+        "PrimaryType": "Ghost",
+        "SecondaryType": null,
+        "Hp": 64,
+        "Attack": 165,
+        "Defense": 75,
+        "SpecialAttack": 93,
+        "SpecialDefense": 83,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Prankster"
+        ]
+    },
+    {
+        "Name": "Musharna",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 116,
+        "Attack": 55,
+        "Defense": 85,
+        "SpecialAttack": 107,
+        "SpecialDefense": 95,
+        "Speed": 29,
+        "LegalAbilities": [
+            "Forewarn",
+            "Synchronize",
+            "Telepathy"
+        ]
+    },
+    {
+        "Name": "Runerigus",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Ghost",
+        "Hp": 58,
+        "Attack": 95,
+        "Defense": 145,
+        "SpecialAttack": 50,
+        "SpecialDefense": 105,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Wandering-spirit"
+        ]
+    },
+    {
+        "Name": "Altaria-mega",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Fairy",
+        "Hp": 75,
+        "Attack": 110,
+        "Defense": 110,
+        "SpecialAttack": 110,
+        "SpecialDefense": 105,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Pixilate"
+        ]
+    },
+    {
+        "Name": "Altaria",
+        "PrimaryType": "Dragon",
+        "SecondaryType": "Flying",
+        "Hp": 75,
+        "Attack": 70,
+        "Defense": 90,
+        "SpecialAttack": 70,
+        "SpecialDefense": 105,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Natural-cure",
+            "Cloud-nine"
+        ]
+    },
+    {
+        "Name": "Steelix-mega",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Ground",
+        "Hp": 75,
+        "Attack": 125,
+        "Defense": 230,
+        "SpecialAttack": 55,
+        "SpecialDefense": 95,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Sand-force"
+        ]
+    },
+    {
+        "Name": "Blastoise",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "SpecialAttack": 85,
+        "SpecialDefense": 105,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Torrent",
+            "Rain-dish"
+        ]
+    },
+    {
+        "Name": "Feraligatr-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dragon",
+        "Hp": 85,
+        "Attack": 160,
+        "Defense": 125,
+        "SpecialAttack": 89,
+        "SpecialDefense": 93,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Dragonize"
+        ]
+    },
+    {
+        "Name": "Clawitzer",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 71,
+        "Attack": 73,
+        "Defense": 88,
+        "SpecialAttack": 120,
+        "SpecialDefense": 89,
+        "Speed": 59,
+        "LegalAbilities": [
+            "Mega-launcher"
+        ]
+    },
+    {
+        "Name": "Excadrill-mega",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Steel",
+        "Hp": 110,
+        "Attack": 165,
+        "Defense": 100,
+        "SpecialAttack": 65,
+        "SpecialDefense": 65,
+        "Speed": 103,
+        "LegalAbilities": [
+            "Piercing-drill"
+        ]
+    },
+    {
+        "Name": "Alakazam",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "SpecialAttack": 135,
+        "SpecialDefense": 95,
+        "Speed": 120,
+        "LegalAbilities": [
+            "Synchronize",
+            "Inner-focus",
+            "Magic-guard"
+        ]
+    },
+    {
+        "Name": "Salazzle",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Fire",
+        "Hp": 68,
+        "Attack": 64,
+        "Defense": 60,
+        "SpecialAttack": 111,
+        "SpecialDefense": 60,
+        "Speed": 117,
+        "LegalAbilities": [
+            "Corrosion",
+            "Oblivious"
+        ]
+    },
+    {
+        "Name": "Glaceon",
+        "PrimaryType": "Ice",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 60,
+        "Defense": 110,
+        "SpecialAttack": 130,
+        "SpecialDefense": 95,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Snow-cloak",
+            "Ice-body"
+        ]
+    },
+    {
+        "Name": "Slowbro-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Psychic",
+        "Hp": 95,
+        "Attack": 75,
+        "Defense": 180,
+        "SpecialAttack": 130,
+        "SpecialDefense": 80,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Shell-armor"
+        ]
+    },
+    {
+        "Name": "Aromatisse",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 101,
+        "Attack": 72,
+        "Defense": 72,
+        "SpecialAttack": 99,
+        "SpecialDefense": 89,
+        "Speed": 29,
+        "LegalAbilities": [
+            "Healer",
+            "Aroma-veil"
+        ]
+    },
+    {
+        "Name": "Spiritomb",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Dark",
+        "Hp": 50,
+        "Attack": 92,
+        "Defense": 108,
+        "SpecialAttack": 92,
+        "SpecialDefense": 108,
+        "Speed": 35,
+        "LegalAbilities": [
+            "Pressure",
+            "Infiltrator"
+        ]
+    },
+    {
+        "Name": "Hippowdon",
+        "PrimaryType": "Ground",
+        "SecondaryType": null,
+        "Hp": 108,
+        "Attack": 112,
+        "Defense": 118,
+        "SpecialAttack": 68,
+        "SpecialDefense": 72,
+        "Speed": 47,
+        "LegalAbilities": [
+            "Sand-stream",
+            "Sand-force"
+        ]
+    },
+    {
+        "Name": "Aurorus",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Ice",
+        "Hp": 123,
+        "Attack": 77,
+        "Defense": 72,
+        "SpecialAttack": 99,
+        "SpecialDefense": 92,
+        "Speed": 58,
+        "LegalAbilities": [
+            "Refrigerate",
+            "Snow-warning"
+        ]
+    },
+    {
+        "Name": "Houndoom-mega",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Fire",
+        "Hp": 75,
+        "Attack": 90,
+        "Defense": 90,
+        "SpecialAttack": 140,
+        "SpecialDefense": 90,
+        "Speed": 115,
+        "LegalAbilities": [
+            "Solar-power"
+        ]
+    },
+    {
+        "Name": "Heracross-mega",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Fighting",
+        "Hp": 80,
+        "Attack": 185,
+        "Defense": 115,
+        "SpecialAttack": 40,
+        "SpecialDefense": 105,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Skill-link"
+        ]
+    },
+    {
+        "Name": "Alakazam-mega",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 55,
+        "Attack": 50,
+        "Defense": 65,
+        "SpecialAttack": 175,
+        "SpecialDefense": 105,
+        "Speed": 150,
+        "LegalAbilities": [
+            "Trace"
+        ]
+    },
+    {
+        "Name": "Rampardos",
+        "PrimaryType": "Rock",
+        "SecondaryType": null,
+        "Hp": 97,
+        "Attack": 165,
+        "Defense": 60,
+        "SpecialAttack": 65,
+        "SpecialDefense": 50,
+        "Speed": 58,
+        "LegalAbilities": [
+            "Mold-breaker",
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Manectric-mega",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 75,
+        "Defense": 80,
+        "SpecialAttack": 135,
+        "SpecialDefense": 80,
+        "Speed": 135,
+        "LegalAbilities": [
+            "Intimidate"
+        ]
+    },
+    {
+        "Name": "Torterra",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Ground",
+        "Hp": 95,
+        "Attack": 109,
+        "Defense": 105,
+        "SpecialAttack": 75,
+        "SpecialDefense": 85,
+        "Speed": 56,
+        "LegalAbilities": [
+            "Overgrow",
+            "Shell-armor"
+        ]
+    },
+    {
+        "Name": "Chimecho-mega",
+        "PrimaryType": "Psychic",
+        "SecondaryType": "Steel",
+        "Hp": 75,
+        "Attack": 50,
+        "Defense": 110,
+        "SpecialAttack": 135,
+        "SpecialDefense": 120,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Gallade-mega",
+        "PrimaryType": "Psychic",
+        "SecondaryType": "Fighting",
+        "Hp": 68,
+        "Attack": 165,
+        "Defense": 95,
+        "SpecialAttack": 65,
+        "SpecialDefense": 115,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Inner-focus"
+        ]
+    },
+    {
+        "Name": "Garganacl",
+        "PrimaryType": "Rock",
+        "SecondaryType": null,
+        "Hp": 100,
+        "Attack": 100,
+        "Defense": 130,
+        "SpecialAttack": 45,
+        "SpecialDefense": 90,
+        "Speed": 35,
+        "LegalAbilities": [
+            "Purifying-salt",
+            "Sturdy",
+            "Clear-body"
+        ]
+    },
+    {
+        "Name": "Audino",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 103,
+        "Attack": 60,
+        "Defense": 86,
+        "SpecialAttack": 60,
+        "SpecialDefense": 86,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Healer",
+            "Regenerator",
+            "Klutz"
+        ]
+    },
+    {
+        "Name": "Quaquaval",
+        "PrimaryType": "Water",
+        "SecondaryType": "Fighting",
+        "Hp": 85,
+        "Attack": 120,
+        "Defense": 80,
+        "SpecialAttack": 85,
+        "SpecialDefense": 75,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Torrent",
+            "Moxie"
+        ]
+    },
+    {
+        "Name": "Pidgeot-mega",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Flying",
+        "Hp": 83,
+        "Attack": 80,
+        "Defense": 80,
+        "SpecialAttack": 135,
+        "SpecialDefense": 80,
+        "Speed": 121,
+        "LegalAbilities": [
+            "No-guard"
+        ]
+    },
+    {
+        "Name": "Infernape",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Fighting",
+        "Hp": 76,
+        "Attack": 104,
+        "Defense": 71,
+        "SpecialAttack": 104,
+        "SpecialDefense": 71,
+        "Speed": 108,
+        "LegalAbilities": [
+            "Blaze",
+            "Iron-fist"
+        ]
+    },
+    {
+        "Name": "Sableye-mega",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Ghost",
+        "Hp": 50,
+        "Attack": 85,
+        "Defense": 125,
+        "SpecialAttack": 85,
+        "SpecialDefense": 115,
+        "Speed": 20,
+        "LegalAbilities": [
+            "Magic-bounce"
+        ]
+    },
+    {
+        "Name": "Slowking",
+        "PrimaryType": "Water",
+        "SecondaryType": "Psychic",
+        "Hp": 95,
+        "Attack": 75,
+        "Defense": 80,
+        "SpecialAttack": 100,
+        "SpecialDefense": 110,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Oblivious",
+            "Own-tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Floette-eternal",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 74,
+        "Attack": 65,
+        "Defense": 67,
+        "SpecialAttack": 125,
+        "SpecialDefense": 128,
+        "Speed": 92,
+        "LegalAbilities": [
+            "Flower-veil",
+            "Symbiosis"
+        ]
+    },
+    {
+        "Name": "Tauros-paldea-blaze-breed",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Fire",
+        "Hp": 75,
+        "Attack": 110,
+        "Defense": 105,
+        "SpecialAttack": 30,
+        "SpecialDefense": 70,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Intimidate",
+            "Anger-point",
+            "Cud-chew"
+        ]
+    },
+    {
+        "Name": "Audino-mega",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Fairy",
+        "Hp": 103,
+        "Attack": 60,
+        "Defense": 126,
+        "SpecialAttack": 80,
+        "SpecialDefense": 126,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Healer"
+        ]
+    },
+    {
+        "Name": "Pikachu",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "SpecialAttack": 50,
+        "SpecialDefense": 50,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Static",
+            "Lightning-rod"
+        ]
+    },
+    {
+        "Name": "Lycanroc-midday",
+        "PrimaryType": "Rock",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 115,
+        "Defense": 65,
+        "SpecialAttack": 55,
+        "SpecialDefense": 65,
+        "Speed": 112,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Sand-rush",
+            "Steadfast"
+        ]
+    },
+    {
+        "Name": "Trevenant",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Grass",
+        "Hp": 85,
+        "Attack": 110,
+        "Defense": 76,
+        "SpecialAttack": 65,
+        "SpecialDefense": 82,
+        "Speed": 56,
+        "LegalAbilities": [
+            "Natural-cure",
+            "Frisk",
+            "Harvest"
+        ]
+    },
+    {
+        "Name": "Victreebel-mega",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Poison",
+        "Hp": 80,
+        "Attack": 125,
+        "Defense": 85,
+        "SpecialAttack": 135,
+        "SpecialDefense": 95,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Innards-out"
+        ]
+    },
+    {
+        "Name": "Machamp",
+        "PrimaryType": "Fighting",
+        "SecondaryType": null,
+        "Hp": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "SpecialAttack": 65,
+        "SpecialDefense": 85,
+        "Speed": 55,
+        "LegalAbilities": [
+            "Guts",
+            "No-guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "Name": "Toxicroak",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Fighting",
+        "Hp": 83,
+        "Attack": 106,
+        "Defense": 65,
+        "SpecialAttack": 86,
+        "SpecialDefense": 65,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Anticipation",
+            "Dry-skin",
+            "Poison-touch"
+        ]
+    },
+    {
+        "Name": "Slowbro-galar",
+        "PrimaryType": "Poison",
+        "SecondaryType": "Psychic",
+        "Hp": 95,
+        "Attack": 100,
+        "Defense": 95,
+        "SpecialAttack": 100,
+        "SpecialDefense": 70,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Quick-draw",
+            "Own-tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Vaporeon",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "SpecialAttack": 110,
+        "SpecialDefense": 95,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Water-absorb",
+            "Hydration"
+        ]
+    },
+    {
+        "Name": "Slowbro",
+        "PrimaryType": "Water",
+        "SecondaryType": "Psychic",
+        "Hp": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "SpecialAttack": 100,
+        "SpecialDefense": 80,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Oblivious",
+            "Own-tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "Name": "Sceptile",
+        "PrimaryType": "Grass",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "SpecialAttack": 105,
+        "SpecialDefense": 85,
+        "Speed": 120,
+        "LegalAbilities": [
+            "Overgrow",
+            "Unburden"
+        ]
+    },
+    {
+        "Name": "Hawlucha",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Flying",
+        "Hp": 78,
+        "Attack": 92,
+        "Defense": 75,
+        "SpecialAttack": 74,
+        "SpecialDefense": 63,
+        "Speed": 118,
+        "LegalAbilities": [
+            "Limber",
+            "Unburden",
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Beedrill-mega",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Poison",
+        "Hp": 65,
+        "Attack": 150,
+        "Defense": 40,
+        "SpecialAttack": 15,
+        "SpecialDefense": 80,
+        "Speed": 145,
+        "LegalAbilities": [
+            "Adaptability"
+        ]
+    },
+    {
+        "Name": "Pinsir-mega",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Flying",
+        "Hp": 65,
+        "Attack": 155,
+        "Defense": 120,
+        "SpecialAttack": 65,
+        "SpecialDefense": 90,
+        "Speed": 105,
+        "LegalAbilities": [
+            "Aerilate"
+        ]
+    },
+    {
+        "Name": "Beartic",
+        "PrimaryType": "Ice",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 130,
+        "Defense": 80,
+        "SpecialAttack": 70,
+        "SpecialDefense": 80,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Snow-cloak",
+            "Slush-rush",
+            "Swift-swim"
+        ]
+    },
+    {
+        "Name": "Feraligatr",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 85,
+        "Attack": 105,
+        "Defense": 100,
+        "SpecialAttack": 79,
+        "SpecialDefense": 83,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Torrent",
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Espeon",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "SpecialAttack": 130,
+        "SpecialDefense": 95,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Synchronize",
+            "Magic-bounce"
+        ]
+    },
+    {
+        "Name": "Glalie-mega",
+        "PrimaryType": "Ice",
+        "SecondaryType": null,
+        "Hp": 80,
+        "Attack": 120,
+        "Defense": 80,
+        "SpecialAttack": 120,
+        "SpecialDefense": 80,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Refrigerate"
+        ]
+    },
+    {
+        "Name": "Charizard",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Flying",
+        "Hp": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "SpecialAttack": 109,
+        "SpecialDefense": 85,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Blaze",
+            "Solar-power"
+        ]
+    },
+    {
+        "Name": "Medicham",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Psychic",
+        "Hp": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "SpecialAttack": 60,
+        "SpecialDefense": 75,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Pure-power",
+            "Telepathy"
+        ]
+    },
+    {
+        "Name": "Luxray",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 80,
+        "Attack": 120,
+        "Defense": 79,
+        "SpecialAttack": 95,
+        "SpecialDefense": 79,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Rivalry",
+            "Intimidate",
+            "Guts"
+        ]
+    },
+    {
+        "Name": "Scolipede",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Poison",
+        "Hp": 60,
+        "Attack": 100,
+        "Defense": 89,
+        "SpecialAttack": 55,
+        "SpecialDefense": 69,
+        "Speed": 112,
+        "LegalAbilities": [
+            "Poison-point",
+            "Swarm",
+            "Speed-boost"
+        ]
+    },
+    {
+        "Name": "Sharpedo-mega",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dark",
+        "Hp": 70,
+        "Attack": 140,
+        "Defense": 70,
+        "SpecialAttack": 110,
+        "SpecialDefense": 65,
+        "Speed": 105,
+        "LegalAbilities": [
+            "Strong-jaw"
+        ]
+    },
+    {
+        "Name": "Toucannon",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Flying",
+        "Hp": 80,
+        "Attack": 120,
+        "Defense": 75,
+        "SpecialAttack": 75,
+        "SpecialDefense": 75,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Skill-link",
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Ariados",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Poison",
+        "Hp": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "SpecialAttack": 60,
+        "SpecialDefense": 70,
+        "Speed": 40,
+        "LegalAbilities": [
+            "Swarm",
+            "Insomnia",
+            "Sniper"
+        ]
+    },
+    {
+        "Name": "Medicham-mega",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Psychic",
+        "Hp": 60,
+        "Attack": 100,
+        "Defense": 85,
+        "SpecialAttack": 80,
+        "SpecialDefense": 85,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Pure-power"
+        ]
+    },
+    {
+        "Name": "Typhlosion",
+        "PrimaryType": "Fire",
+        "SecondaryType": null,
+        "Hp": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "SpecialAttack": 109,
+        "SpecialDefense": 85,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Blaze",
+            "Flash-fire"
+        ]
+    },
+    {
+        "Name": "Morpeko-full-belly",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Dark",
+        "Hp": 58,
+        "Attack": 95,
+        "Defense": 58,
+        "SpecialAttack": 70,
+        "SpecialDefense": 58,
+        "Speed": 97,
+        "LegalAbilities": [
+            "Hunger-switch"
+        ]
+    },
+    {
+        "Name": "Scovillain",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fire",
+        "Hp": 65,
+        "Attack": 108,
+        "Defense": 65,
+        "SpecialAttack": 108,
+        "SpecialDefense": 65,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Chlorophyll",
+            "Insomnia",
+            "Moody"
+        ]
+    },
+    {
+        "Name": "Abomasnow",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Ice",
+        "Hp": 90,
+        "Attack": 92,
+        "Defense": 75,
+        "SpecialAttack": 92,
+        "SpecialDefense": 85,
+        "Speed": 60,
+        "LegalAbilities": [
+            "Snow-warning",
+            "Soundproof"
+        ]
+    },
+    {
+        "Name": "Florges",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 78,
+        "Attack": 65,
+        "Defense": 68,
+        "SpecialAttack": 112,
+        "SpecialDefense": 154,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Flower-veil",
+            "Symbiosis"
+        ]
+    },
+    {
+        "Name": "Meowstic-male-mega",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 74,
+        "Attack": 48,
+        "Defense": 76,
+        "SpecialAttack": 143,
+        "SpecialDefense": 101,
+        "Speed": 124,
+        "LegalAbilities": [
+            "Trace"
+        ]
+    },
+    {
+        "Name": "Flapple",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Dragon",
+        "Hp": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "SpecialAttack": 95,
+        "SpecialDefense": 60,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Ripen",
+            "Gluttony",
+            "Hustle"
+        ]
+    },
+    {
+        "Name": "Manectric",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 75,
+        "Defense": 60,
+        "SpecialAttack": 105,
+        "SpecialDefense": 60,
+        "Speed": 105,
+        "LegalAbilities": [
+            "Static",
+            "Lightning-rod",
+            "Minus"
+        ]
+    },
+    {
+        "Name": "Goodra",
+        "PrimaryType": "Dragon",
+        "SecondaryType": null,
+        "Hp": 90,
+        "Attack": 100,
+        "Defense": 70,
+        "SpecialAttack": 110,
+        "SpecialDefense": 150,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Sap-sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "Name": "Eelektross",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 85,
+        "Attack": 115,
+        "Defense": 80,
+        "SpecialAttack": 105,
+        "SpecialDefense": 80,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Leafeon",
+        "PrimaryType": "Grass",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 110,
+        "Defense": 130,
+        "SpecialAttack": 60,
+        "SpecialDefense": 65,
+        "Speed": 95,
+        "LegalAbilities": [
+            "Leaf-guard",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "Name": "Emolga",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Flying",
+        "Hp": 55,
+        "Attack": 75,
+        "Defense": 60,
+        "SpecialAttack": 75,
+        "SpecialDefense": 60,
+        "Speed": 103,
+        "LegalAbilities": [
+            "Static",
+            "Motor-drive"
+        ]
+    },
+    {
+        "Name": "Avalugg-hisui",
+        "PrimaryType": "Ice",
+        "SecondaryType": "Rock",
+        "Hp": 95,
+        "Attack": 127,
+        "Defense": 184,
+        "SpecialAttack": 34,
+        "SpecialDefense": 36,
+        "Speed": 38,
+        "LegalAbilities": [
+            "Strong-jaw",
+            "Ice-body",
+            "Sturdy"
+        ]
+    },
+    {
+        "Name": "Pangoro",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Dark",
+        "Hp": 95,
+        "Attack": 124,
+        "Defense": 78,
+        "SpecialAttack": 69,
+        "SpecialDefense": 71,
+        "Speed": 58,
+        "LegalAbilities": [
+            "Iron-fist",
+            "Mold-breaker",
+            "Scrappy"
+        ]
+    },
+    {
+        "Name": "Golurk",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Ghost",
+        "Hp": 89,
+        "Attack": 124,
+        "Defense": 80,
+        "SpecialAttack": 55,
+        "SpecialDefense": 80,
+        "Speed": 55,
+        "LegalAbilities": [
+            "Iron-fist",
+            "Klutz",
+            "No-guard"
+        ]
+    },
+    {
+        "Name": "Emboar-mega",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Fighting",
+        "Hp": 110,
+        "Attack": 148,
+        "Defense": 75,
+        "SpecialAttack": 110,
+        "SpecialDefense": 110,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Mold-breaker"
+        ]
+    },
+    {
+        "Name": "Gourgeist-super",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Grass",
+        "Hp": 85,
+        "Attack": 100,
+        "Defense": 122,
+        "SpecialAttack": 58,
+        "SpecialDefense": 75,
+        "Speed": 54,
+        "LegalAbilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "Name": "Chesnaught",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Fighting",
+        "Hp": 88,
+        "Attack": 107,
+        "Defense": 122,
+        "SpecialAttack": 74,
+        "SpecialDefense": 75,
+        "Speed": 64,
+        "LegalAbilities": [
+            "Overgrow",
+            "Bulletproof"
+        ]
+    },
+    {
+        "Name": "Tyrantrum",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Dragon",
+        "Hp": 82,
+        "Attack": 121,
+        "Defense": 119,
+        "SpecialAttack": 69,
+        "SpecialDefense": 59,
+        "Speed": 71,
+        "LegalAbilities": [
+            "Strong-jaw",
+            "Rock-head"
+        ]
+    },
+    {
+        "Name": "Sandaconda",
+        "PrimaryType": "Ground",
+        "SecondaryType": null,
+        "Hp": 72,
+        "Attack": 107,
+        "Defense": 125,
+        "SpecialAttack": 65,
+        "SpecialDefense": 70,
+        "Speed": 71,
+        "LegalAbilities": [
+            "Sand-spit",
+            "Shed-skin",
+            "Sand-veil"
+        ]
+    },
+    {
+        "Name": "Diggersby",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Ground",
+        "Hp": 85,
+        "Attack": 56,
+        "Defense": 77,
+        "SpecialAttack": 50,
+        "SpecialDefense": 77,
+        "Speed": 78,
+        "LegalAbilities": [
+            "Pickup",
+            "Cheek-pouch",
+            "Huge-power"
+        ]
+    },
+    {
+        "Name": "Steelix",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Ground",
+        "Hp": 75,
+        "Attack": 85,
+        "Defense": 200,
+        "SpecialAttack": 55,
+        "SpecialDefense": 65,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Rock-head",
+            "Sturdy",
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Roserade",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Poison",
+        "Hp": 60,
+        "Attack": 70,
+        "Defense": 65,
+        "SpecialAttack": 125,
+        "SpecialDefense": 105,
+        "Speed": 90,
+        "LegalAbilities": [
+            "Natural-cure",
+            "Poison-point",
+            "Technician"
+        ]
+    },
+    {
+        "Name": "Starmie",
+        "PrimaryType": "Water",
+        "SecondaryType": "Psychic",
+        "Hp": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "SpecialAttack": 100,
+        "SpecialDefense": 85,
+        "Speed": 115,
+        "LegalAbilities": [
+            "Illuminate",
+            "Natural-cure",
+            "Analytic"
+        ]
+    },
+    {
+        "Name": "Raichu-alola",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Psychic",
+        "Hp": 60,
+        "Attack": 85,
+        "Defense": 50,
+        "SpecialAttack": 95,
+        "SpecialDefense": 85,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Surge-surfer"
+        ]
+    },
+    {
+        "Name": "Passimian",
+        "PrimaryType": "Fighting",
+        "SecondaryType": null,
+        "Hp": 100,
+        "Attack": 120,
+        "Defense": 90,
+        "SpecialAttack": 40,
+        "SpecialDefense": 60,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Receiver",
+            "Defiant"
+        ]
+    },
+    {
+        "Name": "Barbaracle",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Water",
+        "Hp": 72,
+        "Attack": 105,
+        "Defense": 115,
+        "SpecialAttack": 54,
+        "SpecialDefense": 86,
+        "Speed": 68,
+        "LegalAbilities": [
+            "Tough-claws",
+            "Sniper",
+            "Pickpocket"
+        ]
+    },
+    {
+        "Name": "Froslass",
+        "PrimaryType": "Ice",
+        "SecondaryType": "Ghost",
+        "Hp": 70,
+        "Attack": 80,
+        "Defense": 70,
+        "SpecialAttack": 80,
+        "SpecialDefense": 70,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Snow-cloak",
+            "Cursed-body"
+        ]
+    },
+    {
+        "Name": "Absol",
+        "PrimaryType": "Dark",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "SpecialAttack": 75,
+        "SpecialDefense": 60,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Pressure",
+            "Super-luck",
+            "Justified"
+        ]
+    },
+    {
+        "Name": "Appletun",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Dragon",
+        "Hp": 110,
+        "Attack": 85,
+        "Defense": 80,
+        "SpecialAttack": 100,
+        "SpecialDefense": 80,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Ripen",
+            "Gluttony",
+            "Thick-fat"
+        ]
+    },
+    {
+        "Name": "Absol-mega",
+        "PrimaryType": "Dark",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 150,
+        "Defense": 60,
+        "SpecialAttack": 115,
+        "SpecialDefense": 60,
+        "Speed": 115,
+        "LegalAbilities": [
+            "Magic-bounce"
+        ]
+    },
+    {
+        "Name": "Zoroark",
+        "PrimaryType": "Dark",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 105,
+        "Defense": 60,
+        "SpecialAttack": 120,
+        "SpecialDefense": 60,
+        "Speed": 105,
+        "LegalAbilities": [
+            "Illusion"
+        ]
+    },
+    {
+        "Name": "Sharpedo",
+        "PrimaryType": "Water",
+        "SecondaryType": "Dark",
+        "Hp": 70,
+        "Attack": 120,
+        "Defense": 40,
+        "SpecialAttack": 95,
+        "SpecialDefense": 40,
+        "Speed": 95,
+        "LegalAbilities": [
+            "Rough-skin",
+            "Speed-boost"
+        ]
+    },
+    {
+        "Name": "Rotom-fan",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Flying",
+        "Hp": 50,
+        "Attack": 65,
+        "Defense": 107,
+        "SpecialAttack": 105,
+        "SpecialDefense": 107,
+        "Speed": 86,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Flareon",
+        "PrimaryType": "Fire",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "SpecialAttack": 95,
+        "SpecialDefense": 110,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Flash-fire",
+            "Guts"
+        ]
+    },
+    {
+        "Name": "Houndoom",
+        "PrimaryType": "Dark",
+        "SecondaryType": "Fire",
+        "Hp": 75,
+        "Attack": 90,
+        "Defense": 50,
+        "SpecialAttack": 110,
+        "SpecialDefense": 80,
+        "Speed": 95,
+        "LegalAbilities": [
+            "Early-bird",
+            "Flash-fire",
+            "Unnerve"
+        ]
+    },
+    {
+        "Name": "Skarmory",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Flying",
+        "Hp": 65,
+        "Attack": 80,
+        "Defense": 140,
+        "SpecialAttack": 40,
+        "SpecialDefense": 70,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Sturdy",
+            "Weak-armor"
+        ]
+    },
+    {
+        "Name": "Dedenne",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Fairy",
+        "Hp": 67,
+        "Attack": 58,
+        "Defense": 57,
+        "SpecialAttack": 81,
+        "SpecialDefense": 67,
+        "Speed": 101,
+        "LegalAbilities": [
+            "Cheek-pouch",
+            "Pickup",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Camerupt",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Ground",
+        "Hp": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "SpecialAttack": 105,
+        "SpecialDefense": 75,
+        "Speed": 40,
+        "LegalAbilities": [
+            "Magma-armor",
+            "Solid-rock",
+            "Anger-point"
+        ]
+    },
+    {
+        "Name": "Rotom",
+        "PrimaryType": "Electric",
+        "SecondaryType": "Ghost",
+        "Hp": 50,
+        "Attack": 50,
+        "Defense": 77,
+        "SpecialAttack": 95,
+        "SpecialDefense": 77,
+        "Speed": 91,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Qwilfish",
+        "PrimaryType": "Water",
+        "SecondaryType": "Poison",
+        "Hp": 65,
+        "Attack": 95,
+        "Defense": 85,
+        "SpecialAttack": 55,
+        "SpecialDefense": 55,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Poison-point",
+            "Swift-swim",
+            "Intimidate"
+        ]
+    },
+    {
+        "Name": "Decidueye",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Ghost",
+        "Hp": 78,
+        "Attack": 107,
+        "Defense": 75,
+        "SpecialAttack": 100,
+        "SpecialDefense": 100,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Overgrow",
+            "Long-reach"
+        ]
+    },
+    {
+        "Name": "Polteageist",
+        "PrimaryType": "Ghost",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 65,
+        "Defense": 65,
+        "SpecialAttack": 134,
+        "SpecialDefense": 114,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Weak-armor",
+            "Cursed-body"
+        ]
+    },
+    {
+        "Name": "Stunfisk",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Electric",
+        "Hp": 109,
+        "Attack": 66,
+        "Defense": 84,
+        "SpecialAttack": 81,
+        "SpecialDefense": 99,
+        "Speed": 32,
+        "LegalAbilities": [
+            "Static",
+            "Limber",
+            "Sand-veil"
+        ]
+    },
+    {
+        "Name": "Victreebel",
+        "PrimaryType": "Grass",
+        "SecondaryType": "Poison",
+        "Hp": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "SpecialAttack": 100,
+        "SpecialDefense": 70,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Chlorophyll",
+            "Gluttony"
+        ]
+    },
+    {
+        "Name": "Simipour",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "SpecialAttack": 98,
+        "SpecialDefense": 63,
+        "Speed": 101,
+        "LegalAbilities": [
+            "Gluttony",
+            "Torrent"
+        ]
+    },
+    {
+        "Name": "Bastiodon",
+        "PrimaryType": "Rock",
+        "SecondaryType": "Steel",
+        "Hp": 60,
+        "Attack": 52,
+        "Defense": 168,
+        "SpecialAttack": 47,
+        "SpecialDefense": 138,
+        "Speed": 30,
+        "LegalAbilities": [
+            "Sturdy",
+            "Soundproof"
+        ]
+    },
+    {
+        "Name": "Avalugg",
+        "PrimaryType": "Ice",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 117,
+        "Defense": 184,
+        "SpecialAttack": 44,
+        "SpecialDefense": 46,
+        "Speed": 28,
+        "LegalAbilities": [
+            "Own-tempo",
+            "Ice-body",
+            "Sturdy"
+        ]
+    },
+    {
+        "Name": "Ampharos",
+        "PrimaryType": "Electric",
+        "SecondaryType": null,
+        "Hp": 90,
+        "Attack": 75,
+        "Defense": 85,
+        "SpecialAttack": 115,
+        "SpecialDefense": 90,
+        "Speed": 55,
+        "LegalAbilities": [
+            "Static",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Tauros-paldea-combat-breed",
+        "PrimaryType": "Fighting",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 110,
+        "Defense": 105,
+        "SpecialAttack": 30,
+        "SpecialDefense": 70,
+        "Speed": 100,
+        "LegalAbilities": [
+            "Intimidate",
+            "Anger-point",
+            "Cud-chew"
+        ]
+    },
+    {
+        "Name": "Lycanroc-midnight",
+        "PrimaryType": "Rock",
+        "SecondaryType": null,
+        "Hp": 85,
+        "Attack": 115,
+        "Defense": 75,
+        "SpecialAttack": 55,
+        "SpecialDefense": 75,
+        "Speed": 82,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Vital-spirit",
+            "No-guard"
+        ]
+    },
+    {
+        "Name": "Falinks",
+        "PrimaryType": "Fighting",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 100,
+        "Defense": 100,
+        "SpecialAttack": 70,
+        "SpecialDefense": 60,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Battle-armor",
+            "Defiant"
+        ]
+    },
+    {
+        "Name": "Arbok",
+        "PrimaryType": "Poison",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "SpecialAttack": 65,
+        "SpecialDefense": 79,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Intimidate",
+            "Shed-skin",
+            "Unnerve"
+        ]
+    },
+    {
+        "Name": "Lopunny",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 76,
+        "Defense": 84,
+        "SpecialAttack": 54,
+        "SpecialDefense": 96,
+        "Speed": 105,
+        "LegalAbilities": [
+            "Cute-charm",
+            "Klutz",
+            "Limber"
+        ]
+    },
+    {
+        "Name": "Tauros",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "SpecialAttack": 40,
+        "SpecialDefense": 70,
+        "Speed": 110,
+        "LegalAbilities": [
+            "Intimidate",
+            "Anger-point",
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Aggron",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Rock",
+        "Hp": 70,
+        "Attack": 110,
+        "Defense": 180,
+        "SpecialAttack": 60,
+        "SpecialDefense": 60,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Sturdy",
+            "Rock-head",
+            "Heavy-metal"
+        ]
+    },
+    {
+        "Name": "Slurpuff",
+        "PrimaryType": "Fairy",
+        "SecondaryType": null,
+        "Hp": 82,
+        "Attack": 80,
+        "Defense": 86,
+        "SpecialAttack": 85,
+        "SpecialDefense": 75,
+        "Speed": 72,
+        "LegalAbilities": [
+            "Sweet-veil",
+            "Unburden"
+        ]
+    },
+    {
+        "Name": "Crabominable",
+        "PrimaryType": "Fighting",
+        "SecondaryType": "Ice",
+        "Hp": 97,
+        "Attack": 132,
+        "Defense": 77,
+        "SpecialAttack": 62,
+        "SpecialDefense": 67,
+        "Speed": 43,
+        "LegalAbilities": [
+            "Hyper-cutter",
+            "Iron-fist",
+            "Anger-point"
+        ]
+    },
+    {
+        "Name": "Delphox",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Psychic",
+        "Hp": 75,
+        "Attack": 69,
+        "Defense": 72,
+        "SpecialAttack": 114,
+        "SpecialDefense": 100,
+        "Speed": 104,
+        "LegalAbilities": [
+            "Blaze",
+            "Magician"
+        ]
+    },
+    {
+        "Name": "Emboar",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Fighting",
+        "Hp": 110,
+        "Attack": 123,
+        "Defense": 65,
+        "SpecialAttack": 100,
+        "SpecialDefense": 65,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Blaze",
+            "Reckless"
+        ]
+    },
+    {
+        "Name": "Chimecho",
+        "PrimaryType": "Psychic",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 50,
+        "Defense": 80,
+        "SpecialAttack": 95,
+        "SpecialDefense": 90,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "Name": "Samurott",
+        "PrimaryType": "Water",
+        "SecondaryType": null,
+        "Hp": 95,
+        "Attack": 100,
+        "Defense": 85,
+        "SpecialAttack": 108,
+        "SpecialDefense": 70,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Torrent",
+            "Shell-armor"
+        ]
+    },
+    {
+        "Name": "Forretress",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Steel",
+        "Hp": 75,
+        "Attack": 90,
+        "Defense": 140,
+        "SpecialAttack": 60,
+        "SpecialDefense": 60,
+        "Speed": 40,
+        "LegalAbilities": [
+            "Sturdy",
+            "Overcoat"
+        ]
+    },
+    {
+        "Name": "Simisear",
+        "PrimaryType": "Fire",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "SpecialAttack": 98,
+        "SpecialDefense": 63,
+        "Speed": 101,
+        "LegalAbilities": [
+            "Gluttony",
+            "Blaze"
+        ]
+    },
+    {
+        "Name": "Castform",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 70,
+        "Attack": 70,
+        "Defense": 70,
+        "SpecialAttack": 70,
+        "SpecialDefense": 70,
+        "Speed": 70,
+        "LegalAbilities": [
+            "Forecast"
+        ]
+    },
+    {
+        "Name": "Simisage",
+        "PrimaryType": "Grass",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "SpecialAttack": 98,
+        "SpecialDefense": 63,
+        "Speed": 101,
+        "LegalAbilities": [
+            "Gluttony",
+            "Overgrow"
+        ]
+    },
+    {
+        "Name": "Glalie",
+        "PrimaryType": "Ice",
+        "SecondaryType": null,
+        "Hp": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "SpecialAttack": 80,
+        "SpecialDefense": 80,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Inner-focus",
+            "Ice-body",
+            "Moody"
+        ]
+    },
+    {
+        "Name": "Mawile",
+        "PrimaryType": "Steel",
+        "SecondaryType": "Fairy",
+        "Hp": 50,
+        "Attack": 85,
+        "Defense": 85,
+        "SpecialAttack": 55,
+        "SpecialDefense": 55,
+        "Speed": 50,
+        "LegalAbilities": [
+            "Hyper-cutter",
+            "Intimidate",
+            "Sheer-force"
+        ]
+    },
+    {
+        "Name": "Stunfisk-galar",
+        "PrimaryType": "Ground",
+        "SecondaryType": "Steel",
+        "Hp": 109,
+        "Attack": 81,
+        "Defense": 99,
+        "SpecialAttack": 66,
+        "SpecialDefense": 84,
+        "Speed": 32,
+        "LegalAbilities": [
+            "Mimicry"
+        ]
+    },
+    {
+        "Name": "Heracross",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Fighting",
+        "Hp": 80,
+        "Attack": 125,
+        "Defense": 75,
+        "SpecialAttack": 40,
+        "SpecialDefense": 95,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Swarm",
+            "Guts",
+            "Moxie"
+        ]
+    },
+    {
+        "Name": "Garbodor",
+        "PrimaryType": "Poison",
+        "SecondaryType": null,
+        "Hp": 80,
+        "Attack": 95,
+        "Defense": 82,
+        "SpecialAttack": 60,
+        "SpecialDefense": 82,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Stench",
+            "Weak-armor",
+            "Aftermath"
+        ]
+    },
+    {
+        "Name": "Furfrou",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 75,
+        "Attack": 80,
+        "Defense": 60,
+        "SpecialAttack": 65,
+        "SpecialDefense": 90,
+        "Speed": 102,
+        "LegalAbilities": [
+            "Fur-coat"
+        ]
+    },
+    {
+        "Name": "Gourgeist-small",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Grass",
+        "Hp": 55,
+        "Attack": 85,
+        "Defense": 122,
+        "SpecialAttack": 58,
+        "SpecialDefense": 75,
+        "Speed": 99,
+        "LegalAbilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "Name": "Banette",
+        "PrimaryType": "Ghost",
+        "SecondaryType": null,
+        "Hp": 64,
+        "Attack": 115,
+        "Defense": 65,
+        "SpecialAttack": 83,
+        "SpecialDefense": 63,
+        "Speed": 65,
+        "LegalAbilities": [
+            "Insomnia",
+            "Frisk",
+            "Cursed-body"
+        ]
+    },
+    {
+        "Name": "Pyroar-male",
+        "PrimaryType": "Fire",
+        "SecondaryType": "Normal",
+        "Hp": 86,
+        "Attack": 68,
+        "Defense": 72,
+        "SpecialAttack": 109,
+        "SpecialDefense": 66,
+        "Speed": 106,
+        "LegalAbilities": [
+            "Rivalry",
+            "Unnerve",
+            "Moxie"
+        ]
+    },
+    {
+        "Name": "Watchog",
+        "PrimaryType": "Normal",
+        "SecondaryType": null,
+        "Hp": 60,
+        "Attack": 85,
+        "Defense": 69,
+        "SpecialAttack": 60,
+        "SpecialDefense": 69,
+        "Speed": 77,
+        "LegalAbilities": [
+            "Illuminate",
+            "Keen-eye",
+            "Analytic"
+        ]
+    },
+    {
+        "Name": "Gourgeist-average",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Grass",
+        "Hp": 65,
+        "Attack": 90,
+        "Defense": 122,
+        "SpecialAttack": 58,
+        "SpecialDefense": 75,
+        "Speed": 84,
+        "LegalAbilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "Name": "Meganium",
+        "PrimaryType": "Grass",
+        "SecondaryType": null,
+        "Hp": 80,
+        "Attack": 82,
+        "Defense": 100,
+        "SpecialAttack": 83,
+        "SpecialDefense": 100,
+        "Speed": 80,
+        "LegalAbilities": [
+            "Overgrow",
+            "Leaf-guard"
+        ]
+    },
+    {
+        "Name": "Gourgeist-large",
+        "PrimaryType": "Ghost",
+        "SecondaryType": "Grass",
+        "Hp": 75,
+        "Attack": 95,
+        "Defense": 122,
+        "SpecialAttack": 58,
+        "SpecialDefense": 75,
+        "Speed": 69,
+        "LegalAbilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "Name": "Pinsir",
+        "PrimaryType": "Bug",
+        "SecondaryType": null,
+        "Hp": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "SpecialAttack": 55,
+        "SpecialDefense": 70,
+        "Speed": 85,
+        "LegalAbilities": [
+            "Hyper-cutter",
+            "Mold-breaker",
+            "Moxie"
+        ]
+    },
+    {
+        "Name": "Pidgeot",
+        "PrimaryType": "Normal",
+        "SecondaryType": "Flying",
+        "Hp": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "SpecialAttack": 70,
+        "SpecialDefense": 70,
+        "Speed": 101,
+        "LegalAbilities": [
+            "Keen-eye",
+            "Tangled-feet",
+            "Big-pecks"
+        ]
+    },
+    {
+        "Name": "Beedrill",
+        "PrimaryType": "Bug",
+        "SecondaryType": "Poison",
+        "Hp": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "SpecialAttack": 45,
+        "SpecialDefense": 80,
+        "Speed": 75,
+        "LegalAbilities": [
+            "Swarm",
+            "Sniper"
+        ]
+    }
+]

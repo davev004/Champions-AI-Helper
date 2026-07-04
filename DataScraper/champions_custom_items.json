@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Eelektrossite",
+        "EffectDescription": "Held: Allows Eelektross to Mega Evolve into Mega Eelektross.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Feraligatrite",
+        "EffectDescription": "Held: Allows Feraligatr to Mega Evolve into Mega Feraligatr.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Staraptorite",
+        "EffectDescription": "Held: Allows Staraptor to Mega Evolve into Mega Staraptor.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Raichunite X",
+        "EffectDescription": "Held: Allows Raichu to Mega Evolve into Mega Raichu X.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Raichunite Y",
+        "EffectDescription": "Held: Allows Raichu to Mega Evolve into Mega Raichu Y.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Floettite",
+        "EffectDescription": "Held: Allows Floette to Mega Evolve into Mega Floette.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Froslassite",
+        "EffectDescription": "Held: Allows Froslass to Mega Evolve into Mega Froslass.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Pyroarite",
+        "EffectDescription": "Held: Allows Pyroar to Mega Evolve into Mega Pyroar.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Meganiumite",
+        "EffectDescription": "Held: Allows Meganium to Mega Evolve into Mega Meganium.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Meowsticite",
+        "EffectDescription": "Held: Allows Meowstic to Mega Evolve into Mega Meowstic.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Dragalgite",
+        "EffectDescription": "Held: Allows Dragalge to Mega Evolve into Mega Dragalge.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    },
+    {
+        "Name": "Scovillainite",
+        "EffectDescription": "Held: Allows Scovillain to Mega Evolve into Mega Scovillain.",
+        "IsConsumable": false,
+        "IsLegalInCurrentFormat": true
+    }
+]
