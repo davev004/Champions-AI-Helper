@@ -1,5 +1,7 @@
 # Champions-AI-Helper README
 ## 1. Project Overview
+# Champions-AI-Helper README
+## 1. Project Overview
 
 This project is a C#/.NET 6 ASP.NET Core Web API with a Blazor frontend, designed to generate factual, non-hallucinatory team recommendations for the Pokémon Champions (Regulation M-B) meta using a Retrieval-Augmented Generation (RAG) pipeline.
 ## 2. Prerequisites & Installations
@@ -11,8 +13,9 @@ To successfully replicate this environment, ensure the following tools are insta
 
     * .NET 6 SDK: Required for the backend and frontend frameworks.
 
-    * Git: Required for repository version control.
+....*Git: Required for repository version control.
 
+### Command-Line Tools
 ### Command-Line Tools
 
     * Entity Framework Core CLI: Used for database migrations and schema management. Install globally using:
@@ -25,6 +28,7 @@ To successfully replicate this environment, ensure the following tools are insta
     ```
     (Note: Restart your terminal or VS Code after installation to refresh the PATH.)
 
+## 3. Data Pipeline Setup (Python)
 ## 3. Data Pipeline Setup (Python)
 
 The project utilizes Python scripts to scrape legal Pokémon roster data from Smogon usage statistics and enrich it with data from PokéAPI.
@@ -51,6 +55,7 @@ Ensure the following NuGet packages are installed in your `Champions.Api` projec
     *`Microsoft.EntityFrameworkCore.Sqlite`
 
 ### Configuration
+### Configuration
 
 In `Champions.Api/Program.cs`, ensure your database context is registered to use SQLite:
 ```C#
@@ -75,10 +80,10 @@ To initialize the project and seed the database, follow these steps in the termi
     ```
 ## 6. Project Structure
 
-    * `/Champions.Core`: Contains C# Models (`Pokemon.cs`, `Move.cs`, `Item.cs`, `Ability.cs`).
+....*`/Champions.Core`: Contains C# Models (`Pokemon.cs`, `Move.cs`, `Item.cs`, `Ability.cs`).
 
-    * `/Champions.Api`: Contains the ASP.NET Core backend and `ApplicationDbContext.cs`.
+....*`/Champions.Api`: Contains the ASP.NET Core backend and `ApplicationDbContext.cs`.
 
-    * `/Champions.Web`: Contains the Blazor frontend.
+....*`/Champions.Web`: Contains the Blazor frontend.
 
-    * `/DataScraper`: Contains Python scripts (`fetch_meta.py`, `fetch_abilities.py`, etc.) and JSON data files.
+....*`/DataScraper`: Contains Python scripts (`fetch_meta.py`, `fetch_abilities.py`, etc.) and JSON data files.
