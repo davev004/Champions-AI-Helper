@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Champions.Api", "Champions.Api\Champions.Api.csproj", "{3D8F0486-AB2C-45CC-AB66-6EA873ABC001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Champions.Core", "Champions.Core\Champions.Core.csproj", "{3FF6C922-23AA-4618-B60B-FB89226AA438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Champions.Web", "Champions.Web\Champions.Web.csproj", "{516D0019-E7D6-46B8-974B-BDA810F0BFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8F0486-AB2C-45CC-AB66-6EA873ABC001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8F0486-AB2C-45CC-AB66-6EA873ABC001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8F0486-AB2C-45CC-AB66-6EA873ABC001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8F0486-AB2C-45CC-AB66-6EA873ABC001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF6C922-23AA-4618-B60B-FB89226AA438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF6C922-23AA-4618-B60B-FB89226AA438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF6C922-23AA-4618-B60B-FB89226AA438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF6C922-23AA-4618-B60B-FB89226AA438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516D0019-E7D6-46B8-974B-BDA810F0BFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D0019-E7D6-46B8-974B-BDA810F0BFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D0019-E7D6-46B8-974B-BDA810F0BFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D0019-E7D6-46B8-974B-BDA810F0BFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
